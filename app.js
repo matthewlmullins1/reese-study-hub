@@ -15,7 +15,7 @@ function lock(){hdr.textContent=H.name+"'s Study Hub";app.innerHTML=`<div class=
  const tryIt=async()=>{if(await sha($('#pw').value)===H.hash){LS.set('ok',H.hash);start()}else $('#er').textContent='Not quite, try again.'};
  $('#go').onclick=tryIt;$('#pw').onkeydown=e=>{if(e.key==='Enter')tryIt()}}
 function subjects(){const m={};(window.UNITS||[]).forEach(u=>{(m[u.subject]=m[u.subject]||[]).push(u)});return m}
-const SE={ELA:'📚',Religion:'✝️',Science:'🔬',Math:'➗',History:'🏛️',Spanish:'🇪🇸'};
+const SE={ELA:'📚',Religion:'✝️',Science:'🔬',Math:'➗',History:'🏛️',Spanish:'🇪🇸','Physical Science':'⚛️','AP Government':'🏛️'};
 function home(){const m=subjects(),ks=Object.keys(m).sort();
  if(!ks.length){app.innerHTML=`<div class="card center"><div style="font-size:3rem">🌱</div><h2>No tests yet!</h2><p class="muted">New study units will show up here as soon as they're added. Check back soon, ${esc(H.name)}!</p></div>`;return}
  app.innerHTML=`<p class="muted">${esc(H.grade)} grade · pick a subject</p><div class="grid">`+ks.map(k=>{const us=m[k],nx=us.filter(isUp).sort((a,b)=>a.testDate<b.testDate?-1:1)[0];
@@ -28,7 +28,8 @@ function unit(u,mode){const c=(window.CONTENT||{})[u.id]||{sections:[],flashcard
  app.innerHTML=`<div class="muted">${esc(u.subtitle||'')}</div><div class="tabs"><button data-m="guide">📖 Guide</button><button data-m="cards">🃏 Cards</button><button data-m="quiz">✅ Quiz</button></div><div id="pane"></div>`;
  app.querySelectorAll('.tabs button').forEach(b=>{b.classList.toggle('on',b.dataset.m===mode);b.onclick=()=>unit(u,b.dataset.m)});
  const p=$('#pane');({guide,cards,quiz})[mode](u,c,p)}
-function guide(u,c,p){p.innerHTML=(c.sections||[]).map(s=>`<div class="card"><h3>${esc(s.title)}</h3><ul>${(s.bullets||[]).map(b=>`<li>${esc(b)}</li>`).join('')}${(s.highlight||[]).map(b=>`<li class="hl"><span class="star">★ Likely on test:</span> ${esc(b)}</li>`).join('')}</ul></div>`).join('')||'<p class="muted">No study guide yet.</p>'}
+function note(c){return c.notice?`<div class="card" style="background:#fff7ed;border:2px solid #fb923c">${esc(c.notice)}</div>`:''}
+function guide(u,c,p){p.innerHTML=note(c)+((c.sections||[]).map(s=>`<div class="card"><h3>${esc(s.title)}</h3><ul>${(s.bullets||[]).map(b=>`<li>${esc(b)}</li>`).join('')}${(s.highlight||[]).map(b=>`<li class="hl"><span class="star">★ Likely on test:</span> ${esc(b)}</li>`).join('')}</ul></div>`).join('')||'<p class="muted">No study guide yet.</p>')}
 function cards(u,c,p){let deck=(c.flashcards||[]).slice(),i=0,fl=false;if(!deck.length){p.innerHTML='<p class="muted">No flashcards yet.</p>';return}
  const draw=()=>{const f=deck[i];p.innerHTML=`<div class="card flash ${fl?'back':''}" id="fc">${esc(fl?f.back:f.front)}</div><p class="center muted">${i+1} / ${deck.length} · tap card to flip</p><div class="center"><button class="btn sec" id="pv">‹ Prev</button><button class="btn sec" id="sh">🔀 Shuffle</button><button class="btn sec" id="nx">Next ›</button></div>`;
  $('#fc').onclick=()=>{fl=!fl;draw()};$('#pv').onclick=()=>{i=(i-1+deck.length)%deck.length;fl=false;draw()};$('#nx').onclick=()=>{i=(i+1)%deck.length;fl=false;draw()};$('#sh').onclick=()=>{deck=shuffle(deck);i=0;fl=false;draw()}};draw()}
@@ -41,7 +42,7 @@ function drawSet(u,pool,n){n=n||15;const seen=LS.get('seen:'+u.id,{}),groups={};
 function quiz(u,c,p){const pool=c.quiz||[];if(!pool.length){p.innerHTML='<p class="muted">No quiz yet.</p>';return}
  const set=drawSet(u,pool);let i=0,score=0;
  const show=()=>{if(i>=set.length){const pct=Math.round(score/set.length*100);p.innerHTML=`<div class="card center"><div style="font-size:3rem">${pct>=90?'🏆':pct>=70?'🎉':'💪'}</div><h2>${score} / ${set.length}</h2><p>${pct}%</p><button class="btn" id="again">Try Again</button></div>`;$('#again').onclick=()=>quiz(u,c,p);return}
- const q=set[i];p.innerHTML=`<div class="card"><div class="muted">Question ${i+1} of ${set.length} · Score ${score}</div><h3>${esc(q.q)}</h3>${q.choices.map((ch,k)=>`<button class="choice" data-k="${k}">${esc(ch)}</button>`).join('')}<div id="fb"></div></div>`;
+ const q=set[i];p.innerHTML=(i===0?note(c):'')+`<div class="card"><div class="muted">Question ${i+1} of ${set.length} · Score ${score}</div><h3>${esc(q.q)}</h3>${q.choices.map((ch,k)=>`<button class="choice" data-k="${k}">${esc(ch)}</button>`).join('')}<div id="fb"></div></div>`;
  p.querySelectorAll('.choice').forEach(b=>b.onclick=()=>{if(p.dataset.lock==='1')return;p.dataset.lock='1';const pickd=q.choices[+b.dataset.k],ok=pickd===q.ans;if(ok)score++;
   p.querySelectorAll('.choice').forEach(x=>{const t=q.choices[+x.dataset.k];if(t===q.ans)x.classList.add('right');else if(x===b)x.classList.add('wrong')});
   $('#fb').innerHTML=`<div class="fb"><b>${ok?'✅ Correct!':'❌ Not quite.'}</b> Answer: ${esc(q.ans)}<br>${esc(q.explain)}</div><button class="btn" id="nq">${i+1<set.length?'Next ›':'See score'}</button>`;
