@@ -19,14 +19,14 @@ window.CONTENT = {"apgov-u2-congress":{
     "There are 100 senators and 435 representatives. Both chambers have 3 non-voting members, and there are about 30,000 support staff.",
     "To be in the House you must be 25+; the Senate, 30+.",
     "Citizenship: 7+ years for the House, 9+ for the Senate.",
-    "1/3 of Congress is reelected every 2 years, so it is not all changing at once.",
+    "1/3 of the Senate is reelected every 2 years, so it is not all changing at once.",
     "The U.S. census occurs every 10 years.",
     "The framers intentionally designed the legislative process to be slow, to avoid rash decision making.",
     "The Senate slows down the lawmaking process.",
     "The Senate is called the upper house because of its higher age and citizenship requirements.",
     "Bills can originate in either the House or the Senate, but tax/revenue bills have to originate in the House (Ways & Means Committee).",
     "Caucus examples: Doctors Caucus, House Freedom Caucus, Wine Caucus. Caucuses can elect leaders, draft bills, and appoint committee members.",
-    "Caucuses share an interest/passion in something nongovernmental. A member CANNOT introduce a bill about their own caucus; a member outside the group must.",
+    "Caucuses share an interest/passion in something nongovernmental.",
     "The U.S. government cannot spend money without congressional approval. Budget process: 1) POTUS prepares a budget; 2) committees debate how much should be spent in various areas; 3) both chambers pass the exact same bill; 4) the president signs the bill into law."
    ],
    "highlight": [
@@ -42,7 +42,7 @@ window.CONTENT = {"apgov-u2-congress":{
     "Congress can raise armies and navies, mandate a military draft, and has sole authority to declare war.",
     "Congress sets the salary for all military personnel and determines the money spent on the military.",
     "The framers also wanted a strong military leader: POTUS, aka \"Commander in Chief.\"",
-    "War Powers Resolution Act of 1973 gives the president these powers (deploying troops / receiving ambassadors). It was caused by the Gulf of Tonkin.",
+    "The War Powers Resolution of 1973 limited presidential war power. It was caused by how much power the Gulf of Tonkin Resolution gave the president (LBJ got almost unlimited military power).",
     "1964: Gulf of Tonkin Resolution gave LBJ almost unlimited military power.",
     "1973: Tonkin Resolution repealed; War Powers Act put in place. POTUS has 48 hours to engage in combat without informing Congress. Within 60 (or 90) days Congress must take action to approve/deny any use of military force.",
     "House: power to select POTUS if the Electoral College doesn't reach 270; power to impeach federal officials.",
@@ -59,7 +59,7 @@ window.CONTENT = {"apgov-u2-congress":{
    "title": "2.2 Leadership",
    "bullets": [
     "The \"real work\" of Congress is done in committees, especially in the House.",
-    "The Constitution states that the House and Senate may choose their own officers, chosen by the Speaker of the House and the President Pro Tempore.",
+    "The Constitution lets the House and Senate each choose their own officers. Committee members and chairs are chosen by the Speaker of the House and the President Pro Tempore.",
     "Current Speaker of the House: Mike Johnson. Recognizes members to speak, organizes members for conference committees, has great influence in most matters of lawmaking.",
     "In the Senate, leaders set the legislative agenda for which bills are seen.",
     "Whips keep the tally of votes among party members, help determine the best time to vote, strong-arm members to vote with the party, and make sure members stay in good standing (deal with members during scandals).",
@@ -79,11 +79,11 @@ window.CONTENT = {"apgov-u2-congress":{
    "bullets": [
     "Smaller groups can take on tough issues and draft more precise laws; lets lawmakers use their expertise; makes moving legislation more manageable.",
     "Committee leadership: chaired by a senior, experienced member of the majority party; the vice chair is from the minority party, aka the ranking member; leadership is determined by the majority party.",
-    "A bill needs to pass in a committee before being introduced to Congress.",
+    "A bill must pass a vote in a committee, then be introduced onto the floor by someone who is not part of that committee (a member can't introduce a bill from their own committee).",
     "Each full chamber votes to approve committee membership.",
     "Standing committees discuss and either polish or reject a variety of bills. Examples: Agriculture, Appropriations, Finance.",
     "Select committees: things like scandals and major events; conduct research to determine if further action is necessary.",
-    "Conference committees: aka the reconciliation committee; created temporarily to take multiple versions of a bill and combine them into 1 bill; permanent committee, but only meets when necessary.",
+    "Conference committees (aka the reconciliation committee): formed temporarily to combine multiple versions of a bill into 1 bill; can be considered permanent but only meet when needed; can last from a week to about a year.",
     "5 functions of Congress: 1) oversight, 2) overseeing the bureaucracy, 3) confirmation of presidential appointments, 4) lawmaking, 5) representation."
    ],
    "highlight": [
@@ -100,12 +100,12 @@ window.CONTENT = {"apgov-u2-congress":{
    "title": "2.2 Unique House & Senate Rules",
    "bullets": [
     "Unique to the House: House Rules Committee assigns bills to standing committees, schedules bills for debate (nothing reaches the floor without its approval), defines guidelines for debate.",
-    "Committee of the Whole: only for the House (100 must be present).",
+    "Committee of the Whole: only for the House; 100 representatives must be present for it to be the Committee of the Whole and carry out its functions.",
     "Unique to the Senate: the presiding officer must recognize anyone who stands to speak; does not have control over who is speaking.",
-    "Filibuster record = 24 h 19 min (held by Strom Thurmond).",
+    "Filibuster record = 24 h 19 min, held by Strom Thurmond (teacher's notes; this record has since been broken).",
     "Cloture is the only thing that can end a filibuster.",
     "The Senate has more power over foreign relations.",
-    "Unanimous consent allows 1 senator to delay a bill."
+    "Unanimous consent: it takes just 1 senator to stop it."
    ],
    "highlight": [
     "House Rules Committee.",
@@ -115,20 +115,20 @@ window.CONTENT = {"apgov-u2-congress":{
     "Filibuster: senators can stall or kill a bill by speaking for an extremely long time.",
     "Cloture rule: needs 60 votes to end a filibuster.",
     "Non-germane: the Senate can offer non-germane revisions (doesn't have to relate to the bill).",
-    "Unanimous consent: agreement of all senators to delay a debate/bill."
+    "Unanimous consent: agreement of all senators to move a bill forward."
    ]
   },
   {
    "title": "2.2 Introducing & Amending Bills, Referral & Spending",
    "bullets": [
     "Congress sees more than 10,000 bills in committee; only 300 to 500 are passed.",
-    "Riders and omnibus bills are exclusive to the Senate (per notes).",
     "In the House, the House Rules Committee assigns bills to committees.",
     "Logrolling is legal.",
     "Congress can overrule a veto with a 2/3 vote in each chamber.",
-    "Mandatory spending examples: Social Security, Medicare, Medicaid. 60% of the budget; takes priority.",
-    "Discretionary spending example: military spending. 38% of the budget.",
-    "The federal government's debt is considered mandatory spending."
+    "Mandatory spending examples: Social Security, Medicare, Medicaid. About 60% of the budget; takes priority.",
+    "Discretionary spending example: military spending. About 38% of the budget.",
+    "The other ~2% is for miscellaneous things or shifts year to year between mandatory and discretionary.",
+    "Paying off the national/federal debt is mandatory spending."
    ],
    "highlight": [
     "Rider: another word for a non-germane (not relating) amendment to a bill.",
@@ -147,7 +147,7 @@ window.CONTENT = {"apgov-u2-congress":{
    "bullets": [
     "Gridlock is a \"congestion\" of opposing forces; it makes it harder for members of Congress to be friends with each other.",
     "The party in power in the state legislature determines district lines; this benefits the party in power (they get more seats).",
-    "Gerrymandering is illegal if done intentionally (hard to catch).",
+    "Gerrymandering is illegal in a court of law if proven it was done intentionally (usually based on race or party); hard to catch.",
     "Divided government can lead to gridlock."
    ],
    "highlight": [
@@ -157,7 +157,7 @@ window.CONTENT = {"apgov-u2-congress":{
     "Politico model: blending the delegate & trustee models.",
     "Trustee model: representatives believe in themselves and make decisions on a case-by-case basis.",
     "★ Redistricting: state legislatures redraw congressional districts to reflect population changes.",
-    "Baker v. Carr: brought to the Supreme Court because Tennessee had not redrawn its district lines in almost 100 years; voters who weren't being represented needed to do something about it.",
+    "Baker v. Carr: brought to the Supreme Court because Tennessee had not redrawn its district lines in almost 60 years; voters who weren't being represented needed to do something about it.",
     "Gerrymandering: district lines drawn to favor/hurt a specific party or group of people.",
     "Divided government: POTUS is from 1 party, but Congress is controlled by the other party."
    ]
@@ -269,7 +269,7 @@ window.CONTENT = {"apgov-u2-congress":{
    "back": "Cloture rule"
   },
   {
-   "front": "Agreement of all senators to delay a debate/bill",
+   "front": "Agreement of all senators to move a bill forward (1 senator can stop it)",
    "back": "Unanimous consent"
   },
   {
@@ -1665,6 +1665,366 @@ window.CONTENT = {"apgov-u2-congress":{
    ],
    "answer": 0,
    "explain": "Opposing control can cause gridlock."
+  },
+  {
+   "sourceId": "senterm",
+   "q": "According to the notes, how much of the Senate is reelected every 2 years?",
+   "choices": [
+    "1/3",
+    "All of it",
+    "1/2",
+    "2/3"
+   ],
+   "answer": 0,
+   "explain": "1/3 of the Senate is reelected every 2 years, so it never all changes at once."
+  },
+  {
+   "sourceId": "senterm",
+   "q": "Why doesn't the whole Senate change at once?",
+   "choices": [
+    "Only 1/3 of the Senate is reelected every 2 years",
+    "Senators serve for life",
+    "The House chooses senators",
+    "Elections happen every 10 years"
+   ],
+   "answer": 0,
+   "explain": "Staggered terms: 1/3 every 2 years."
+  },
+  {
+   "sourceId": "nonvote",
+   "q": "How many non-voting members does each chamber have, per the notes?",
+   "choices": [
+    "3",
+    "0",
+    "100",
+    "435"
+   ],
+   "answer": 0,
+   "explain": "Both chambers have 3 non-voting members."
+  },
+  {
+   "sourceId": "nonvote",
+   "q": "Which chambers have 3 non-voting members?",
+   "choices": [
+    "Both the House and the Senate",
+    "Only the House",
+    "Only the Senate",
+    "Neither chamber"
+   ],
+   "answer": 0,
+   "explain": "Both chambers have 3 non-voting members."
+  },
+  {
+   "sourceId": "intro",
+   "q": "After a bill passes a committee vote, who introduces it onto the floor?",
+   "choices": [
+    "Someone who is not part of that committee",
+    "The committee chair",
+    "The vice president",
+    "The House Rules Committee chair only"
+   ],
+   "answer": 0,
+   "explain": "A member can't introduce a bill from their own committee."
+  },
+  {
+   "sourceId": "intro",
+   "q": "What must happen before a bill goes to the floor?",
+   "choices": [
+    "It must pass a vote in a committee",
+    "It must be signed by the president",
+    "It must survive a filibuster",
+    "It must be approved by a caucus"
+   ],
+   "answer": 0,
+   "explain": "A bill must pass a committee vote first."
+  },
+  {
+   "sourceId": "chairs",
+   "q": "Who chooses committee members and chairs?",
+   "choices": [
+    "The Speaker of the House and the President Pro Tempore",
+    "The vice president and the whips",
+    "The president",
+    "The minority leaders"
+   ],
+   "answer": 0,
+   "explain": "The Speaker and the President Pro Tempore choose them."
+  },
+  {
+   "sourceId": "chairs",
+   "q": "The Constitution lets each chamber…",
+   "choices": [
+    "Choose its own officers",
+    "Choose the president",
+    "Pick Supreme Court justices",
+    "Redraw district lines"
+   ],
+   "answer": 0,
+   "explain": "Each chamber chooses its own officers."
+  },
+  {
+   "sourceId": "wpcause",
+   "q": "What caused the War Powers Resolution of 1973?",
+   "choices": [
+    "How much power the Gulf of Tonkin Resolution gave the president",
+    "The 17th Amendment",
+    "Baker v. Carr",
+    "A filibuster by Strom Thurmond"
+   ],
+   "answer": 0,
+   "explain": "Tonkin gave LBJ almost unlimited power, so the War Powers Act limited it."
+  },
+  {
+   "sourceId": "wpcause",
+   "q": "What did the War Powers Resolution of 1973 do to presidential war power?",
+   "choices": [
+    "Limited it",
+    "Made it unlimited",
+    "Gave it to the Senate alone",
+    "Removed the commander in chief title"
+   ],
+   "answer": 0,
+   "explain": "It limited presidential war power after Tonkin."
+  },
+  {
+   "sourceId": "conflen",
+   "q": "How long can a conference committee last, per the notes?",
+   "choices": [
+    "From a week to about a year",
+    "Exactly 48 hours",
+    "Exactly 2 years",
+    "Only one day"
+   ],
+   "answer": 0,
+   "explain": "Conference committees can last a week or about a year."
+  },
+  {
+   "sourceId": "conflen",
+   "q": "A conference committee is also known as the…",
+   "choices": [
+    "Reconciliation committee",
+    "Ranking committee",
+    "Rules committee",
+    "Committee of the Whole"
+   ],
+   "answer": 0,
+   "explain": "Conference committee aka reconciliation committee."
+  },
+  {
+   "sourceId": "conflen",
+   "q": "When does a conference committee meet?",
+   "choices": [
+    "Only when needed",
+    "Every day of the session",
+    "Only during filibusters",
+    "Only during the census"
+   ],
+   "answer": 0,
+   "explain": "It can be considered permanent but only meets when needed."
+  },
+  {
+   "sourceId": "func",
+   "q": "Which is one of the 5 functions of Congress in the notes?",
+   "choices": [
+    "Confirmation of presidential appointments",
+    "Deploying troops",
+    "Receiving ambassadors",
+    "Redrawing districts"
+   ],
+   "answer": 0,
+   "explain": "The 5: oversight, overseeing the bureaucracy, confirming appointments, lawmaking, representation."
+  },
+  {
+   "sourceId": "func",
+   "q": "Which is NOT one of the 5 functions of Congress in the notes?",
+   "choices": [
+    "Receiving ambassadors",
+    "Lawmaking",
+    "Representation",
+    "Overseeing the bureaucracy"
+   ],
+   "answer": 0,
+   "explain": "Congress does not receive ambassadors."
+  },
+  {
+   "sourceId": "cotw100",
+   "q": "How many representatives must be present for the Committee of the Whole?",
+   "choices": [
+    "100",
+    "60",
+    "435",
+    "218"
+   ],
+   "answer": 0,
+   "explain": "100 representatives must be present."
+  },
+  {
+   "sourceId": "cotw100",
+   "q": "The Committee of the Whole is used by…",
+   "choices": [
+    "Only the House",
+    "Only the Senate",
+    "Both chambers jointly",
+    "Only conference committees"
+   ],
+   "answer": 0,
+   "explain": "It is only for the House."
+  },
+  {
+   "sourceId": "filrec",
+   "q": "According to class notes, who held the filibuster record of 24 h 19 min?",
+   "choices": [
+    "Strom Thurmond",
+    "Mike Johnson",
+    "JD Vance",
+    "LBJ"
+   ],
+   "answer": 0,
+   "explain": "Class notes: Strom Thurmond, 24 h 19 min (since broken)."
+  },
+  {
+   "sourceId": "uc",
+   "q": "What is unanimous consent?",
+   "choices": [
+    "Agreement of all senators to move a bill forward",
+    "60 votes to end a filibuster",
+    "A 2/3 vote to override a veto",
+    "Trading votes for support"
+   ],
+   "answer": 0,
+   "explain": "Unanimous consent = all senators agree to move forward."
+  },
+  {
+   "sourceId": "uc",
+   "q": "How many senators does it take to stop unanimous consent?",
+   "choices": [
+    "1",
+    "60",
+    "51",
+    "67"
+   ],
+   "answer": 0,
+   "explain": "Just 1 senator can stop it."
+  },
+  {
+   "sourceId": "uc",
+   "q": "All senators agreeing to move a bill forward is called…",
+   "choices": [
+    "Unanimous consent",
+    "Cloture",
+    "Logrolling",
+    "Sequential referral"
+   ],
+   "answer": 0,
+   "explain": "That is unanimous consent."
+  },
+  {
+   "sourceId": "pct",
+   "q": "About what share of the budget is mandatory spending?",
+   "choices": [
+    "About 60%",
+    "About 38%",
+    "About 2%",
+    "About 90%"
+   ],
+   "answer": 0,
+   "explain": "Mandatory ~60%, discretionary ~38%."
+  },
+  {
+   "sourceId": "pct",
+   "q": "About what share of the budget is discretionary spending?",
+   "choices": [
+    "About 38%",
+    "About 60%",
+    "About 2%",
+    "About 10%"
+   ],
+   "answer": 0,
+   "explain": "Discretionary is ~38%."
+  },
+  {
+   "sourceId": "pct",
+   "q": "What is the leftover ~2% of the budget, per the notes?",
+   "choices": [
+    "Miscellaneous or shifts year to year between mandatory and discretionary",
+    "Military spending only",
+    "Pork-barrel spending",
+    "Paying senators"
+   ],
+   "answer": 0,
+   "explain": "The ~2% is miscellaneous or shifts yearly."
+  },
+  {
+   "sourceId": "debt",
+   "q": "Paying off the national debt is what kind of spending?",
+   "choices": [
+    "Mandatory spending",
+    "Discretionary spending",
+    "Pork-barrel spending",
+    "Omnibus spending"
+   ],
+   "answer": 0,
+   "explain": "Debt payment is mandatory."
+  },
+  {
+   "sourceId": "debt",
+   "q": "Which is considered mandatory spending?",
+   "choices": [
+    "Paying off the federal debt",
+    "Military spending",
+    "Pork-barrel projects",
+    "Riders"
+   ],
+   "answer": 0,
+   "explain": "Federal debt payment is mandatory."
+  },
+  {
+   "sourceId": "gerryill",
+   "q": "When is gerrymandering illegal in a court of law?",
+   "choices": [
+    "When it is proven it was done intentionally",
+    "Always, no matter what",
+    "Never",
+    "Only in the Senate"
+   ],
+   "answer": 0,
+   "explain": "It is illegal if proven intentional (usually race or party)."
+  },
+  {
+   "sourceId": "gerryill",
+   "q": "Illegal gerrymandering is usually based on…",
+   "choices": [
+    "Race or party",
+    "Age or citizenship",
+    "Census errors",
+    "Committee membership"
+   ],
+   "answer": 0,
+   "explain": "Usually based on race or party."
+  },
+  {
+   "sourceId": "bakeryrs",
+   "q": "In Baker v. Carr, how long had Tennessee gone without redrawing its lines?",
+   "choices": [
+    "Almost 60 years",
+    "Almost 100 years",
+    "10 years",
+    "2 years"
+   ],
+   "answer": 0,
+   "explain": "Tennessee hadn't redrawn lines in almost 60 years."
+  },
+  {
+   "sourceId": "bakeryrs",
+   "q": "Who brought the Baker v. Carr issue forward?",
+   "choices": [
+    "Voters who weren't being represented",
+    "The Speaker of the House",
+    "The president",
+    "The Senate majority leader"
+   ],
+   "answer": 0,
+   "explain": "Unrepresented voters needed to do something about it."
   }
  ]
 }};
