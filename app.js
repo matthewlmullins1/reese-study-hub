@@ -4,7 +4,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const today=()=>{const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')};
 const fmt=d=>{const[y,m,dd]=d.split('-');return +m+'/'+ +dd+'/'+y};
-const isUp=u=>u.testDate>=today();
+const isUp=u=>!!u.testDate&&u.testDate>=today();
 const LS={get(k,d){try{return JSON.parse(localStorage.getItem(H.key+':'+k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(H.key+':'+k,JSON.stringify(v))}catch(e){}}};
 async function sha(s){const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));return[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')}
 let stack=[];
@@ -15,14 +15,14 @@ function lock(){hdr.textContent=H.name+"'s Study Hub";app.innerHTML=`<div class=
  const tryIt=async()=>{if(await sha($('#pw').value)===H.hash){LS.set('ok',H.hash);start()}else $('#er').textContent='Not quite, try again.'};
  $('#go').onclick=tryIt;$('#pw').onkeydown=e=>{if(e.key==='Enter')tryIt()}}
 function subjects(){const m={};(window.UNITS||[]).forEach(u=>{(m[u.subject]=m[u.subject]||[]).push(u)});return m}
-const SE={ELA:'📚',Religion:'✝️',Science:'🔬',Math:'➗',History:'🏛️',Spanish:'🇪🇸','Physical Science':'⚛️','AP Government':'🏛️'};
+const SE={ELA:'📚',Religion:'✝️',Science:'🔬',Math:'➗',History:'🏛️',Spanish:'🇪🇸','Physical Science':'⚛️','AP Government':'🏛️',Precalculus:'📐'};
 function home(){const m=subjects(),ks=Object.keys(m).sort();
  if(!ks.length){app.innerHTML=`<div class="card center"><div style="font-size:3rem">🌱</div><h2>No tests yet!</h2><p class="muted">New study units will show up here as soon as they're added. Check back soon, ${esc(H.name)}!</p></div>`;return}
  app.innerHTML=`<p class="muted">${esc(H.grade)} grade · pick a subject</p><div class="grid">`+ks.map(k=>{const us=m[k],nx=us.filter(isUp).sort((a,b)=>a.testDate<b.testDate?-1:1)[0];
  return`<div class="card tap folder" data-s="${esc(k)}"><div class="em">${SE[k]||'📁'}</div><h3>${esc(k)}</h3><div class="muted">${us.length} test${us.length>1?'s':''}</div><div class="muted">${nx?'Next: '+fmt(nx.testDate):'No upcoming test'}</div></div>`}).join('')+'</div>';
  app.querySelectorAll('.folder').forEach(e=>e.onclick=()=>go(()=>folder(e.dataset.s),e.dataset.s))}
 function folder(s){const us=(window.UNITS||[]).filter(u=>u.subject===s).sort((a,b)=>a.testDate<b.testDate?1:-1);
- app.innerHTML=us.map(u=>`<div class="card tap unit" data-id="${esc(u.id)}"><div style="font-size:1.6rem">${esc(u.emoji||'📝')}</div><h3 style="margin:4px 0">${esc(u.title)}</h3><div class="muted">${esc(u.subtitle||'')}</div><span class="tag ${isUp(u)?'up':'past'}">${isUp(u)?'Upcoming':'Past test'} · ${fmt(u.testDate)}</span></div>`).join('');
+ app.innerHTML=us.map(u=>`<div class="card tap unit" data-id="${esc(u.id)}"><div style="font-size:1.6rem">${esc(u.emoji||'📝')}</div><h3 style="margin:4px 0">${esc(u.title)}</h3><div class="muted">${esc(u.subtitle||'')}</div><span class="tag ${isUp(u)||!u.testDate?'up':'past'}">${u.testDate?(isUp(u)?'Upcoming':'Past test')+' · '+fmt(u.testDate):'No test date'}</span></div>`).join('');
  app.querySelectorAll('.unit').forEach(e=>e.onclick=()=>{const u=us.find(x=>x.id===e.dataset.id);go(()=>unit(u,'guide'),u.title)})}
 function unit(u,mode){const c=(window.CONTENT||{})[u.id]||{sections:[],flashcards:[],quiz:[]};
  app.innerHTML=`<div class="muted">${esc(u.subtitle||'')}</div><div class="tabs"><button data-m="guide">📖 Guide</button><button data-m="cards">🃏 Cards</button><button data-m="quiz">✅ Quiz</button></div><div id="pane"></div>`;
