@@ -1,0 +1,18 @@
+#timer{margin-left:auto;font-weight:700;font-variant-numeric:tabular-nums;background:rgba(255,255,255,.2);padding:4px 10px;border-radius:8px}
+#timer.warn{background:#dc2626;animation:pulse 1s infinite}@keyframes pulse{50%{opacity:.6}}
+.banner{background:#fff7ed;border:2px solid #fb923c;font-size:.92rem}.banner a{color:#9a3412}
+.passage{background:#fff;border-radius:12px;padding:12px 14px;max-height:48vh;overflow:auto;border:2px solid #e0e7ff;line-height:1.55;font-size:.97rem}
+.passage h4{margin:0 0 6px}.passage p{margin:0 0 10px}.passage table,.stim table{border-collapse:collapse;margin:8px 0;font-size:.88rem}
+.passage td,.passage th,.stim td,.stim th{border:1px solid #c7d2fe;padding:4px 7px;text-align:center}.passage th,.stim th{background:#eef2ff}
+.ul sup{font-size:.7rem;color:#4f46e5;font-weight:700;margin-left:1px}.ul.cur{background:#fef08a;border-radius:4px}
+.box{display:inline-block;border:2px solid #4f46e5;padding:0 5px;font-size:.75rem;font-weight:700;border-radius:3px;color:#4f46e5}.box.cur{background:#fef08a}
+.tbar{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:.9rem;color:#4b5563;margin-bottom:6px}.btn.sm{padding:6px 10px;font-size:.85rem}
+.choice.sel{border-color:#4f46e5;background:#eef2ff}.qq{line-height:1.45}.qn{color:#4f46e5}
+.qgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(52px,1fr));gap:6px;margin:10px 0}.qcell{border:2px solid #e5e7eb;background:#fff;border-radius:8px;padding:8px 0;font-weight:600}
+.qcell.done{background:#dcfce7;border-color:#16a34a}.qcell.flg{border-color:#f59e0b}
+.big{font-size:1.4rem;font-weight:700}.expl{margin-top:6px;line-height:1.5}
+details.ex{background:#f8fafc;border-radius:10px;padding:8px 10px;margin:8px 0}details.ex summary{cursor:pointer;font-weight:600}
+.stimbox{background:#fff;border-radius:12px;padding:10px 12px;border:2px solid #e0e7ff}.stimbox summary{font-weight:600;cursor:pointer}.stim{line-height:1.5;font-size:.95rem;max-height:50vh;overflow:auto}
+.rv.ok{border-left:5px solid #16a34a}.rv.no{border-left:5px solid #dc2626}.links li{margin:8px 0}
+table.fmt{border-collapse:collapse;width:100%;font-size:.88rem}table.fmt td,table.fmt th{border:1px solid #e5e7eb;padding:5px;text-align:left}table.fmt th{background:#eef2ff}
+.acttile{background:linear-gradient(135deg,#eef2ff,#fdf4ff)}
