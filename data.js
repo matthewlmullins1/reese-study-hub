@@ -3153,7 +3153,7 @@ window.CONTENT = {
   ]
  },
  "apgov-u5-presidency": {
-  "notice": "⚠️ Built from your Chapter 5 guided notes (AMSCO worksheet) and your two notebook pages (2.4 and 2.4 cont'd / 2.5). Terms you highlighted in your notebook show as \"★ Likely on test\". A few worksheet answers are still unreadable (see \"Still not included\" at the end of the guide). Federalist 70 is not in your photos, so it is not in this unit. Nothing here comes from outside your notes. Check it against your own sheets.",
+  "notice": "⚠️ Chapter 5 notes: built from your AMSCO worksheet and your two notebook pages. Terms you highlighted in your notebook show as \"★ Likely on test\". A few worksheet answers are still unreadable (see \"Still not included\" at the end of the guide). Federalist No. 70 is the one exception: it is added from the essay's own text (not your notes), and those four guide sections are marked with an orange banner. Its quiz explanations start with \"Fed 70:\". Everything else comes only from your notes. Check it against your own sheets.",
   "sections": [
    {
     "title": "Essential Questions & Checkpoint Tip",
@@ -3319,6 +3319,80 @@ window.CONTENT = {
      "Trump used Twitter to communicate directly and immediately with the public."
     ],
     "highlight": []
+   },
+   {
+    "title": "Federalist No. 70 (1/4): Energy in the Executive",
+    "bullets": [
+     "Title: “The Executive Department Further Considered.” Written by Hamilton (signed Publius), March 18, 1788, “To the People of the State of New York.”",
+     "Hamilton starts by rejecting the idea that a vigorous Executive is inconsistent with republican government. He hopes that idea is “destitute of foundation.”",
+     "Energy in the Executive is essential to: protecting the community against foreign attacks; the steady administration of the laws; protecting property against high-handed combinations that interrupt justice; and securing liberty against ambition, faction, and anarchy.",
+     "Rome example: Rome often had to take refuge in the absolute power of a single man, the Dictator, against ambitious individuals, seditions, and foreign enemies.",
+     "A feeble Executive means a feeble execution of the government. A feeble execution is a bad execution, and a government ill executed is, in practice, a bad government.",
+     "Hamilton's three questions: (1) What ingredients make up energy? (2) How far can they combine with the ingredients of safety? (3) How far does that combination describe the plan reported by the convention?",
+     "In this essay Hamilton only lists duration, adequate provision for support, competent powers, and dependence on the people. The essay itself spends its time on unity and on responsibility."
+    ],
+    "highlight": [
+     "Energy in the Executive is “a leading character in the definition of good government.”",
+     "The four ingredients of energy: unity, duration, an adequate provision for its support, and competent powers.",
+     "The two ingredients of safety in the republican sense: a due dependence on the people and a due responsibility."
+    ],
+    "banner": "📜 This section comes from the text of Federalist No. 70, not from Reese's notes."
+   },
+   {
+    "title": "Federalist No. 70 (2/4): Unity vs. Plurality",
+    "bullets": [
+     "Celebrated statesmen favored a single Executive and a numerous legislature. They saw energy as most applicable to power in a single hand, and the legislature as best for deliberation and wisdom.",
+     "Decision, activity, secrecy, and despatch (speed) mark one man's proceedings more than any greater number's. As the number grows, these qualities shrink.",
+     "Example of two equal magistrates: the two Consuls of Rome. Example of one man controlled by counsellors: the constitutions of several States.",
+     "Hamilton says (“if I recollect right”) that New York and New Jersey are the only States that gave executive authority wholly to single men.",
+     "The votaries of an executive council are the most numerous. The objections to both plural methods are similar, so he examines them together.",
+     "Experience of other nations: it teaches us not to be enamoured of plurality. The Achaeans tried two Praetors and abolished one. Rome had many mischiefs from dissensions between the Consuls and between the military Tribunes.",
+     "Why Rome's dissensions weren't worse: the Consuls were usually patricians, united by defending their order's privileges, and they divided the administration by lot (one at Rome, one in the distant provinces).",
+     "Using reason and good sense, Hamilton finds much greater cause to reject plurality than to approve it."
+    ],
+    "highlight": [
+     "Unity is conducive to energy: decision, activity, secrecy, and despatch.",
+     "Unity can be destroyed two ways: (1) two or more magistrates of equal dignity and authority, or (2) one man controlled by counsellors.",
+     "Hamilton rejects plurality in the Executive “under any modification whatever.”"
+    ],
+    "banner": "📜 This section comes from the text of Federalist No. 70, not from Reese's notes."
+   },
+   {
+    "title": "Federalist No. 70 (3/4): Dissension and Councils",
+    "bullets": [
+     "Where two or more people share an enterprise, there is danger of differing opinions. With equal dignity and authority, there is danger of personal emulation and animosity, and bitter dissensions.",
+     "Dissensions lessen respectability, weaken authority, and distract plans. In an emergency they could block important measures and split the community into violent, irreconcilable factions.",
+     "Men often oppose a thing because they had no part in planning it or dislike its planners. If consulted and they disapprove, opposition becomes “an indispensable duty of self-love.” Society's interests get sacrificed to “vanity,” “conceit,” and “obstinacy.”",
+     "In the legislature, differences promote deliberation and circumspection and check the majority's excesses. There, promptitude of decision is oftener an evil than a benefit. So dissensions must be accepted there.",
+     "In the Executive, dissension is “pure and unmixed.” It weakens vigor and expedition from the first step to the last, with no counterbalancing good.",
+     "A council whose agreement is required: Hamilton says his objections apply with considerable weight (principal weight applies to equal magistrates). An artful cabal could distract and enervate (weaken) the administration. Even without one, a diversity of views gives “habitual feebleness and dilatoriness” (a habit of delay)."
+    ],
+    "highlight": [
+     "Dissensions are tolerable in the legislature but unnecessary and unwise in the Executive: they weaken vigor and expedition with no balancing good.",
+     "In war, the energy of the Executive is “the bulwark of the national security.”"
+    ],
+    "banner": "📜 This section comes from the text of Federalist No. 70, not from Reese's notes."
+   },
+   {
+    "title": "Federalist No. 70 (4/4): Responsibility and the Case Against a Council",
+    "bullets": [
+     "Plurality tends to conceal faults and destroy responsibility. Responsibility is of two kinds: censure (public blame) and punishment. Censure is more important, especially in an elective office.",
+     "In a plural executive it is often impossible to tell who deserves the blame. It gets shifted around, with excuses like “I was overruled by my council.” Few will take the trouble to look closely, and collusion makes things ambiguous.",
+     "New York's governor has a council only for appointing to offices. Scandalous appointments were made; the governor blamed the council and the council blamed his nomination. Hamilton gives no names “in tenderness to individuals.”",
+     "Plurality deprives the people of two greatest securities: (1) the restraints of public opinion, and (2) the chance to discover misconduct so a person can be removed or punished.",
+     "England: the king is a perpetual magistrate, unaccountable, and his person is sacred. So a council responsible for its advice makes sense there, though he can disregard it. In a republic every magistrate should be personally responsible, and a council would destroy or greatly diminish the Chief Magistrate's responsibility.",
+     "The council idea comes from “republican jealousy,” the maxim that power is safer in a number of men than one. Hamilton disagrees and agrees with the writer (Junius called him “deep, solid, and ingenious”) that the executive power is more easily confined when it is ONE. The people then have a single object for their jealousy and watchfulness.",
+     "Security from numbers is unattainable: numbers must be great enough to make combination hard, or they are a danger. A small group easily combined by an artful leader is more liable to abuse, and more dangerous when abused, than one man, who is more narrowly watched and more readily suspected. The Decemvirs of Rome (the name denotes their number) were more to be dreaded than any one of them. A council of six to a dozen is still easy to combine.",
+     "Expense: the salaries of council members, drawn from their homes to the seat of government, would be too serious a cost for an object of “equivocal utility.”",
+     "Closing: before the Constitution, Hamilton rarely met an intelligent man from any State who didn't admit that the UNITY of New York's executive was one of the best features of its constitution."
+    ],
+    "highlight": [
+     "Plurality tends to conceal faults and destroy responsibility. Responsibility is of two kinds: censure and punishment (censure is more important).",
+     "“The executive power is more easily confined when it is ONE.”",
+     "A council to a responsible magistrate is “a clog upon his good intentions,” often the “instruments and accomplices of his bad,” and “almost always a cloak to his faults.”",
+     "In a republic every magistrate ought to be personally responsible; a council would destroy or greatly diminish the Chief Magistrate's responsibility."
+    ],
+    "banner": "📜 This section comes from the text of Federalist No. 70, not from Reese's notes."
    },
    {
     "title": "Still not included (couldn't read or not in the photos)",
@@ -3533,6 +3607,66 @@ window.CONTENT = {
    {
     "front": "Used Twitter to communicate directly and immediately with the public",
     "back": "Trump"
+   },
+   {
+    "front": "Hamilton says this “is a leading character in the definition of good government” (Federalist 70)",
+    "back": "Energy in the Executive"
+   },
+   {
+    "front": "Four ingredients of energy: unity, duration, adequate provision for its support, and ___ (Federalist 70)",
+    "back": "Competent powers"
+   },
+   {
+    "front": "The two ingredients of safety in the republican sense (Federalist 70)",
+    "back": "Due dependence on the people and due responsibility"
+   },
+   {
+    "front": "Executive power held by one person; Hamilton says it is conducive to energy (Federalist 70)",
+    "back": "Unity"
+   },
+   {
+    "front": "More than one person sharing executive power (Federalist 70)",
+    "back": "Plurality"
+   },
+   {
+    "front": "Decision, activity, secrecy, and ___: qualities of one man's proceedings (Federalist 70)",
+    "back": "Despatch"
+   },
+   {
+    "front": "The two kinds of responsibility (Federalist 70)",
+    "back": "Censure and punishment"
+   },
+   {
+    "front": "Public blame or disapproval; Hamilton says it is the more important kind of responsibility",
+    "back": "Censure"
+   },
+   {
+    "front": "A scheming group acting together in secret, such as in a council",
+    "back": "Cabal"
+   },
+   {
+    "front": "To weaken (\"distract and ___\" the administration)",
+    "back": "Enervate"
+   },
+   {
+    "front": "A tendency to delay; a council's diversity of views leads to feebleness and this",
+    "back": "Dilatoriness"
+   },
+   {
+    "front": "The Roman title for the absolute power of a single man (Federalist 70)",
+    "back": "Dictator"
+   },
+   {
+    "front": "Roman magistrates of equal authority, Hamilton's example of plurality",
+    "back": "Consuls"
+   },
+   {
+    "front": "Roman group more to be dreaded in usurpation than any one of them (their name denotes their number)",
+    "back": "Decemvirs"
+   },
+   {
+    "front": "“The executive power is more easily confined when it is ___.”",
+    "back": "ONE"
    }
   ],
   "quiz": [
@@ -4855,6 +4989,1266 @@ window.CONTENT = {
     ],
     "answer": 0,
     "explain": "The checkpoint says to use process of elimination with an internal monologue."
+   },
+   {
+    "sourceId": "f70energy",
+    "q": "According to Hamilton, which is “a leading character in the definition of good government”?",
+    "choices": [
+     "Energy in the Executive",
+     "A numerous legislature",
+     "An executive council",
+     "The absolute power of a single man"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton: “Energy in the Executive is a leading character in the definition of good government.”"
+   },
+   {
+    "sourceId": "f70energy",
+    "q": "Energy in the Executive is a leading character in the definition of…",
+    "choices": [
+     "Good government",
+     "A monarchy",
+     "A dictatorship",
+     "A feeble legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: That is the famous line in the opening paragraph."
+   },
+   {
+    "sourceId": "f70idea",
+    "q": "Hamilton opens by rejecting the idea that a vigorous Executive is inconsistent with…",
+    "choices": [
+     "Republican government",
+     "Foreign trade",
+     "A written constitution",
+     "Roman history"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says some think a vigorous Executive is inconsistent with the genius of republican government."
+   },
+   {
+    "sourceId": "f70idea",
+    "q": "Hamilton hopes the idea that a vigorous Executive conflicts with republican government is…",
+    "choices": [
+     "Destitute of foundation",
+     "Supported by Roman history",
+     "Proven by the Constitution",
+     "Held by all men of sense"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He hopes the supposition is “destitute of foundation.”"
+   },
+   {
+    "sourceId": "f70uses",
+    "q": "Which is something energy in the Executive is essential to?",
+    "choices": [
+     "Steady administration of the laws",
+     "Making the legislature smaller",
+     "Giving the Executive a council",
+     "Keeping the Executive weak so it can be watched"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says energy is essential to the steady administration of the laws."
+   },
+   {
+    "sourceId": "f70uses",
+    "q": "Energy in the Executive is essential to protect the community against…",
+    "choices": [
+     "Foreign attacks",
+     "Public opinion",
+     "Written constitutions",
+     "The people's right to vote"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Energy is essential to protection against foreign attacks."
+   },
+   {
+    "sourceId": "f70uses",
+    "q": "Energy helps secure liberty against the enterprises and assaults of…",
+    "choices": [
+     "Ambition, faction, and anarchy",
+     "Censure, punishment, and expense",
+     "Unity, duration, and competent powers",
+     "Councils, consuls, and tribunes"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He lists ambition, faction, and anarchy."
+   },
+   {
+    "sourceId": "f70dict",
+    "q": "Which Roman title did Hamilton say Rome used for the absolute power of a single man?",
+    "choices": [
+     "Dictator",
+     "Praetor",
+     "Tribune",
+     "Decemvir"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Rome took refuge in the absolute power of a single man under the title of Dictator."
+   },
+   {
+    "sourceId": "f70dict",
+    "q": "Hamilton says Rome was often obliged to take refuge in the absolute power of…",
+    "choices": [
+     "A single man",
+     "A council of ten",
+     "Two Consuls",
+     "The plebeians"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: That single man held the title of Dictator."
+   },
+   {
+    "sourceId": "f70dict",
+    "q": "Why does Hamilton mention Rome's Dictators?",
+    "choices": [
+     "Rome often needed the absolute power of one man against threats from within and from foreign enemies",
+     "To show that the Consuls never disagreed with each other",
+     "To show that councils are the best protection for liberty",
+     "To show that Rome never faced any foreign enemies"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The Dictator example supports his point that energy is needed."
+   },
+   {
+    "sourceId": "f70feeble",
+    "q": "A feeble Executive implies…",
+    "choices": [
+     "A feeble execution of the government",
+     "A safer government",
+     "A more responsible government",
+     "A larger legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton: a feeble Executive implies a feeble execution of the government."
+   },
+   {
+    "sourceId": "f70feeble",
+    "q": "Hamilton says a feeble execution is another phrase for a…",
+    "choices": [
+     "Bad execution",
+     "Safe execution",
+     "Responsible execution",
+     "United execution"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A feeble execution is “but another phrase for a bad execution.”"
+   },
+   {
+    "sourceId": "f70feeble",
+    "q": "Hamilton says a government ill executed must be, in practice, a…",
+    "choices": [
+     "Bad government",
+     "Dictatorship",
+     "United government",
+     "Responsible government"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A government ill executed, whatever it is in theory, must be a bad government in practice."
+   },
+   {
+    "sourceId": "f70plan",
+    "q": "Hamilton asks how far the energy and safety ingredients characterize…",
+    "choices": [
+     "The plan reported by the convention",
+     "The government of ancient Rome",
+     "The English monarchy",
+     "The New York legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: His third question is how far the combination characterizes the plan reported by the convention."
+   },
+   {
+    "sourceId": "f70plan",
+    "q": "Hamilton says all men of sense will agree on the necessity of…",
+    "choices": [
+     "An energetic Executive",
+     "A plural Executive",
+     "An executive council",
+     "A feeble Executive"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He takes it for granted that men of sense agree an energetic Executive is necessary."
+   },
+   {
+    "sourceId": "f70ingred",
+    "q": "Which is an ingredient of energy in the Executive?",
+    "choices": [
+     "Unity",
+     "Due responsibility",
+     "Due dependence on the people",
+     "A council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The four ingredients of energy are unity, duration, adequate provision for support, and competent powers."
+   },
+   {
+    "sourceId": "f70ingred",
+    "q": "Which is NOT an ingredient of energy in the Executive?",
+    "choices": [
+     "Due dependence on the people",
+     "Duration",
+     "Competent powers",
+     "An adequate provision for its support"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Due dependence on the people is an ingredient of safety, not energy."
+   },
+   {
+    "sourceId": "f70ingred",
+    "q": "How many ingredients does Hamilton list as making up energy in the Executive?",
+    "choices": [
+     "Four",
+     "Two",
+     "Three",
+     "Six"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Unity, duration, adequate provision for support, and competent powers."
+   },
+   {
+    "sourceId": "f70safe",
+    "q": "Which is an ingredient of safety in the republican sense?",
+    "choices": [
+     "Due responsibility",
+     "Unity",
+     "Duration",
+     "Competent powers"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Safety needs a due dependence on the people and a due responsibility."
+   },
+   {
+    "sourceId": "f70safe",
+    "q": "How many ingredients does Hamilton list as making up safety in the republican sense?",
+    "choices": [
+     "Two",
+     "Four",
+     "Three",
+     "Five"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Due dependence on the people and due responsibility."
+   },
+   {
+    "sourceId": "f70safe",
+    "q": "Safety in the republican sense requires a due dependence on the people and a due…",
+    "choices": [
+     "Responsibility",
+     "Unity",
+     "Duration",
+     "Provision"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Those are the two ingredients of safety."
+   },
+   {
+    "sourceId": "f70single",
+    "q": "Celebrated statesmen favored a single Executive and a ___ legislature.",
+    "choices": [
+     "Numerous",
+     "Small",
+     "Single",
+     "Appointed"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They favored a single Executive and a numerous legislature."
+   },
+   {
+    "sourceId": "f70single",
+    "q": "Hamilton says energy is most applicable to power in…",
+    "choices": [
+     "A single hand",
+     "A numerous legislature",
+     "Two magistrates of equal authority",
+     "An executive council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Those statesmen regarded energy as most applicable to power in a single hand."
+   },
+   {
+    "sourceId": "f70single",
+    "q": "Which body did those statesmen think best adapted to deliberation and wisdom?",
+    "choices": [
+     "A numerous legislature",
+     "A single Executive",
+     "The Dictator",
+     "Two Consuls"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They said the legislature is best for deliberation and wisdom."
+   },
+   {
+    "sourceId": "f70unity",
+    "q": "Which qualities does Hamilton say mark one man's proceedings more than any greater number's?",
+    "choices": [
+     "Decision, activity, secrecy, and despatch",
+     "Deliberation, wisdom, caution, and delay",
+     "Dissension, rivalry, jealousy, and delay",
+     "Censure, punishment, expense, and doubt"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says one man has these qualities in a more eminent degree."
+   },
+   {
+    "sourceId": "f70unity",
+    "q": "As the number in the executive increases, decision, activity, secrecy, and despatch…",
+    "choices": [
+     "Are diminished",
+     "Are increased",
+     "Stay exactly the same",
+     "Are strengthened"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: “In proportion as the number is increased, these qualities will be diminished.”"
+   },
+   {
+    "sourceId": "f70unity",
+    "q": "Hamilton says it “will not be disputed” that ___ is conducive to energy.",
+    "choices": [
+     "Unity",
+     "Plurality",
+     "A council",
+     "Division of power"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Unity is conducive to energy."
+   },
+   {
+    "sourceId": "f70destroy",
+    "q": "In how many ways does Hamilton say the unity of the Executive may be destroyed?",
+    "choices": [
+     "Two",
+     "One",
+     "Three",
+     "Four"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Either by two or more equal magistrates, or by one man controlled by counsellors."
+   },
+   {
+    "sourceId": "f70destroy",
+    "q": "One way unity is destroyed is by vesting power in two or more magistrates of…",
+    "choices": [
+     "Equal dignity and authority",
+     "Unequal rank",
+     "Different States",
+     "Different ages"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: That is the first way, and the Consuls of Rome are the example."
+   },
+   {
+    "sourceId": "f70destroy",
+    "q": "The other way is vesting power ostensibly in one man who is subject to the control and co-operation of…",
+    "choices": [
+     "Counsellors",
+     "Foreign ambassadors",
+     "The plebeians",
+     "His successors"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A man controlled by counsellors is the second way."
+   },
+   {
+    "sourceId": "f70examples",
+    "q": "Which example does Hamilton give of two magistrates of equal authority?",
+    "choices": [
+     "The two Consuls of Rome",
+     "The Roman Dictator",
+     "The Achaean assembly",
+     "The governor of New York"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The two Consuls of Rome serve as the example."
+   },
+   {
+    "sourceId": "f70examples",
+    "q": "Which States does Hamilton say, “if I recollect right,” gave executive authority wholly to single men?",
+    "choices": [
+     "New York and New Jersey",
+     "Virginia and Maryland",
+     "Massachusetts and Connecticut",
+     "Georgia and Delaware"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He names New York and New Jersey as the only ones."
+   },
+   {
+    "sourceId": "f70examples",
+    "q": "Where does Hamilton say we find examples of a single man controlled by counsellors?",
+    "choices": [
+     "In the constitutions of several of the States",
+     "Only in the history of ancient Rome",
+     "Only in the Achaean republic of Greece",
+     "Nowhere in any government in history"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He finds those examples in several State constitutions."
+   },
+   {
+    "sourceId": "f70votaries",
+    "q": "Of the two ways of destroying unity, which does Hamilton say has the most partisans?",
+    "choices": [
+     "The executive council",
+     "Two or more magistrates of equal authority",
+     "A single Dictator",
+     "A numerous legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says the votaries of an executive council are the most numerous."
+   },
+   {
+    "sourceId": "f70votaries",
+    "q": "Hamilton says the objections to both plural methods are…",
+    "choices": [
+     "Similar, so they can be examined together",
+     "Completely different, so they need separate answers",
+     "Not worth considering",
+     "Strongest against the council only"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They are liable “if not to equal, to similar objections.”"
+   },
+   {
+    "sourceId": "f70nations",
+    "q": "The Achaeans, after trying two Praetors, were induced to…",
+    "choices": [
+     "Abolish one",
+     "Add a third",
+     "Appoint a Dictator",
+     "Create a council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They abolished one of the two Praetors."
+   },
+   {
+    "sourceId": "f70nations",
+    "q": "What does Hamilton say the experience of other nations teaches, so far as it teaches anything?",
+    "choices": [
+     "Not to be enamoured of plurality in the Executive",
+     "To prefer plurality in the Executive always",
+     "To appoint more Praetors to each office",
+     "To avoid having any Executive at all"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Experience teaches us not to be enamoured of plurality."
+   },
+   {
+    "sourceId": "f70nations",
+    "q": "Roman history records many mischiefs from dissensions between the…",
+    "choices": [
+     "Consuls",
+     "Dictators",
+     "Governors",
+     "Kings"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton cites dissensions between the Consuls and between the military Tribunes."
+   },
+   {
+    "sourceId": "f70consuls",
+    "q": "Why does Hamilton say the Consuls were commonly united?",
+    "choices": [
+     "They shared a personal interest in defending the privileges of their order",
+     "A law strictly forbade them to ever disagree",
+     "They greatly feared the power of the Dictator",
+     "They received one shared salary from the state"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The Consuls were generally chosen from the patricians and united by that interest."
+   },
+   {
+    "sourceId": "f70consuls",
+    "q": "How did the Consuls divide the administration after the empire expanded?",
+    "choices": [
+     "By lot: one stayed at Rome and the other commanded in the distant provinces",
+     "By vote of the Senate, with both Consuls staying at Rome",
+     "By election of the plebeians in each distant province",
+     "By appointing a council to run the government for them"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It became custom to divide the administration between themselves by lot."
+   },
+   {
+    "sourceId": "f70consuls",
+    "q": "Hamilton says the Consuls were generally chosen out of the…",
+    "choices": [
+     "Patricians",
+     "Plebeians",
+     "Tribunes",
+     "Praetors"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The Consuls were generally chosen out of the patricians."
+   },
+   {
+    "sourceId": "f70reason",
+    "q": "Using reason and good sense, Hamilton finds much greater cause to ___ plurality in the Executive.",
+    "choices": [
+     "Reject",
+     "Approve",
+     "Delay",
+     "Expand"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He finds much greater cause to reject than to approve plurality."
+   },
+   {
+    "sourceId": "f70reason",
+    "q": "Hamilton rejects plurality in the Executive under…",
+    "choices": [
+     "Any modification whatever",
+     "Wartime only",
+     "Peacetime only",
+     "Roman law only"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He rejects it “under any modification whatever.”"
+   },
+   {
+    "sourceId": "f70dissent",
+    "q": "When people of equal dignity and authority share an office, there is peculiar danger of…",
+    "choices": [
+     "Personal emulation and even animosity",
+     "Too much agreement among them",
+     "Too little expense for the public",
+     "Rapid and decisive action"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton warns of personal emulation and even animosity."
+   },
+   {
+    "sourceId": "f70dissent",
+    "q": "Dissensions lessen respectability, weaken authority, and…",
+    "choices": [
+     "Distract the plans and operation of those they divide",
+     "Speed up the plans of those whom they divide",
+     "Strengthen the people's trust in the officials",
+     "Unite the whole community behind one plan"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They distract the plans and operation of those whom they divide."
+   },
+   {
+    "sourceId": "f70dissent",
+    "q": "Dissensions in a plural executive might split the community into…",
+    "choices": [
+     "Violent and irreconcilable factions",
+     "Peaceful and friendly assemblies",
+     "Equal councils of advisors",
+     "Friendly and cooperative parties"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says they might split the community into the most violent and irreconcilable factions."
+   },
+   {
+    "sourceId": "f70selflove",
+    "q": "If men have been consulted and disapprove, Hamilton says opposition becomes…",
+    "choices": [
+     "An indispensable duty of self-love",
+     "A public duty to the people",
+     "A matter of law",
+     "A sign of wisdom"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They think opposition an indispensable duty of self-love."
+   },
+   {
+    "sourceId": "f70selflove",
+    "q": "Why might men oppose a thing, according to Hamilton?",
+    "choices": [
+     "They had no part in planning it, or it was planned by people they dislike",
+     "They believe it will cost too much money",
+     "They think it was planned too slowly",
+     "They know it has been approved by everyone"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Men often oppose a thing because they had no agency in planning it or dislike its planners."
+   },
+   {
+    "sourceId": "f70selflove",
+    "q": "Hamilton says society's great interests are sometimes sacrificed to the…",
+    "choices": [
+     "Vanity, conceit, and obstinacy of individuals",
+     "Wisdom, caution, and economy of officials",
+     "Duty, honor, and humility of leaders",
+     "Secrecy, activity, and despatch of one man"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He names the vanity, the conceit, and the obstinacy of individuals."
+   },
+   {
+    "sourceId": "f70legis",
+    "q": "In the legislature, Hamilton says promptitude of decision is oftener…",
+    "choices": [
+     "An evil than a benefit",
+     "A benefit than an evil",
+     "Required by law",
+     "A sign of unity"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: In the legislature, promptitude of decision is oftener an evil than a benefit."
+   },
+   {
+    "sourceId": "f70legis",
+    "q": "Differences of opinion in the legislature often promote…",
+    "choices": [
+     "Deliberation and circumspection",
+     "Secrecy and despatch in lawmaking",
+     "The rule of a Dictator",
+     "Faster and more frequent elections"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They often promote deliberation and circumspection and check excesses in the majority."
+   },
+   {
+    "sourceId": "f70legis",
+    "q": "Dissensions must be accepted in the legislature but are unnecessary and unwise in the…",
+    "choices": [
+     "Executive",
+     "Roman Senate",
+     "Press",
+     "Voters"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It is unnecessary, and therefore unwise, to introduce them into the Executive."
+   },
+   {
+    "sourceId": "f70execdis",
+    "q": "Dissension in the executive department is…",
+    "choices": [
+     "Pure and unmixed, with nothing to balance it",
+     "Balanced out by useful deliberation",
+     "Helpful in checking the majority",
+     "Ended as soon as a resolution is taken"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: No favorable circumstances palliate it; the disadvantages are “pure and unmixed.”"
+   },
+   {
+    "sourceId": "f70execdis",
+    "q": "Dissensions in the Executive counteract its vigor and…",
+    "choices": [
+     "Expedition",
+     "Responsibility",
+     "Duration",
+     "Economy"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They counteract vigor and expedition, the most necessary ingredients."
+   },
+   {
+    "sourceId": "f70execdis",
+    "q": "In the conduct of war, the energy of the Executive is the ___ of national security.",
+    "choices": [
+     "Bulwark",
+     "Enemy",
+     "Burden",
+     "Substitute"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The energy of the Executive is “the bulwark of the national security.”"
+   },
+   {
+    "sourceId": "f70council",
+    "q": "What does Hamilton say could distract and enervate the whole system of administration?",
+    "choices": [
+     "An artful cabal in the council",
+     "A single Executive",
+     "The people's censure",
+     "A numerous legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: An artful cabal in that council could distract and enervate the system."
+   },
+   {
+    "sourceId": "f70council",
+    "q": "Even with no cabal, a council's diversity of views would give the executive authority a spirit of…",
+    "choices": [
+     "Habitual feebleness and dilatoriness",
+     "Quick and decisive action",
+     "Greater secrecy and speed",
+     "Perfect agreement and unity"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Mere diversity of views would tincture the authority with feebleness and dilatoriness."
+   },
+   {
+    "sourceId": "f70council",
+    "q": "Hamilton says his objections apply to a council with…",
+    "choices": [
+     "Considerable weight, though not equal weight",
+     "No weight at all",
+     "Greater weight than to two equal magistrates",
+     "Weight only in wartime"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: They apply with principal weight to equal magistrates, but with considerable weight to a council."
+   },
+   {
+    "sourceId": "f70resp",
+    "q": "Which does Hamilton call one of the weightiest objections to plurality in the Executive?",
+    "choices": [
+     "It tends to conceal faults and destroy responsibility",
+     "It costs the public far too little",
+     "It makes the Executive act too quickly",
+     "It gives the people too much say in government"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It tends to conceal faults and destroy responsibility."
+   },
+   {
+    "sourceId": "f70resp",
+    "q": "Hamilton says responsibility is of two kinds…",
+    "choices": [
+     "Censure and punishment",
+     "Unity and duration",
+     "Dependence and safety",
+     "Energy and expense"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: “Responsibility is of two kinds, to censure and to punishment.”"
+   },
+   {
+    "sourceId": "f70resp",
+    "q": "Which kind of responsibility is more important, especially in an elective office?",
+    "choices": [
+     "Censure",
+     "Punishment",
+     "Expense",
+     "Duration"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says censure is the more important of the two."
+   },
+   {
+    "sourceId": "f70blame",
+    "q": "In a plural executive, the blame for a bad measure…",
+    "choices": [
+     "Can be shifted around so the public can't tell who is at fault",
+     "Always falls on the oldest member of the group",
+     "Falls equally on every member of the group",
+     "Is easy for the public to assign correctly"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Blame is shifted from one to another so the public is left in suspense about the real author."
+   },
+   {
+    "sourceId": "f70blame",
+    "q": "Which excuse does Hamilton say is constantly at hand in a plural executive?",
+    "choices": [
+     "“I was overruled by my council.”",
+     "“I acted alone.”",
+     "“I was following the people's orders.”",
+     "“I obeyed the Dictator.”"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He quotes: “I was overruled by my council.”"
+   },
+   {
+    "sourceId": "f70blame",
+    "q": "Hamilton says the multiplication of the Executive adds to the difficulty of…",
+    "choices": [
+     "Detecting who is at fault",
+     "Raising taxes",
+     "Making laws",
+     "Choosing officers"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It adds to the difficulty of detection in either case, censure or punishment."
+   },
+   {
+    "sourceId": "f70ny",
+    "q": "In what task is the governor of New York coupled with a council, according to Hamilton?",
+    "choices": [
+     "Appointing to offices",
+     "Making laws",
+     "Collecting taxes",
+     "Declaring war"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The governor has a council only in the appointment to offices."
+   },
+   {
+    "sourceId": "f70ny",
+    "q": "When scandalous appointments were questioned, the governor blamed…",
+    "choices": [
+     "The members of the council",
+     "The people",
+     "The legislature",
+     "The Dictator"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The governor blamed the council, and the council blamed his nomination."
+   },
+   {
+    "sourceId": "f70ny",
+    "q": "Why does Hamilton say he doesn't give particulars about those appointments?",
+    "choices": [
+     "In tenderness to individuals",
+     "He lacks any evidence",
+     "The names are secret by law",
+     "He thinks the scandals were minor"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says, “In tenderness to individuals, I forbear to descend to particulars.”"
+   },
+   {
+    "sourceId": "f70secure",
+    "q": "Plurality deprives the people of two securities. One is…",
+    "choices": [
+     "The restraints of public opinion",
+     "The power to declare war on other nations",
+     "The unity of the Executive",
+     "The advice of a numerous legislature"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The first security is the restraints of public opinion."
+   },
+   {
+    "sourceId": "f70secure",
+    "q": "The other security is the opportunity to discover misconduct so persons can be…",
+    "choices": [
+     "Removed from office or punished",
+     "Advised by a council of experts",
+     "Promoted to higher office",
+     "Given more power over the government"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The second is discovering misconduct to remove or punish the person."
+   },
+   {
+    "sourceId": "f70secure",
+    "q": "Public opinion loses its efficacy because censure is divided among a number and because of uncertainty…",
+    "choices": [
+     "On whom it ought to fall",
+     "How long they serve",
+     "What they are paid",
+     "Which State they come from"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Censure is divided, and it is uncertain on whom it ought to fall."
+   },
+   {
+    "sourceId": "f70england",
+    "q": "In England, Hamilton says the king is…",
+    "choices": [
+     "Unaccountable for his administration, and his person sacred",
+     "Elected to office every single year",
+     "Bound by every resolution of his council",
+     "Responsible to the legislature for his conduct"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The king is a perpetual magistrate who is unaccountable, and his person is sacred."
+   },
+   {
+    "sourceId": "f70england",
+    "q": "Why is a council wise in England, according to Hamilton?",
+    "choices": [
+     "It can be responsible to the nation for the advice it gives",
+     "It makes the king an elected officer",
+     "It takes the place of the Parliament",
+     "It lets the king avoid listening to any advice"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Without a council there would be no responsibility whatever in the executive department there."
+   },
+   {
+    "sourceId": "f70england",
+    "q": "Is the English king bound by the resolutions of his council?",
+    "choices": [
+     "No: he may observe or disregard the counsel at his sole discretion",
+     "Yes: he must always follow its resolutions",
+     "Yes: he must follow them during a war",
+     "Yes: he must follow them if the council is unanimous"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He is the absolute master of his own conduct in office."
+   },
+   {
+    "sourceId": "f70republic",
+    "q": "In a republic, Hamilton says every magistrate ought to be…",
+    "choices": [
+     "Personally responsible for his behavior in office",
+     "Unaccountable to the people for his acts",
+     "Advised and guided by a council",
+     "Treated as sacred and above blame"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: In a republic every magistrate ought to be personally responsible for his behavior."
+   },
+   {
+    "sourceId": "f70republic",
+    "q": "In the American republic, a council would serve to…",
+    "choices": [
+     "Destroy or greatly diminish the Chief Magistrate's responsibility",
+     "Increase the Chief Magistrate's responsibility",
+     "Make the Executive more energetic and quick",
+     "Make him more directly answerable to the people"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It would destroy or greatly diminish the intended and necessary responsibility of the Chief Magistrate."
+   },
+   {
+    "sourceId": "f70republic",
+    "q": "In Great Britain, Hamilton says a council is a kind of “hostage to national justice” for the…",
+    "choices": [
+     "Good behavior of the chief magistrate",
+     "Good order and conduct of Parliament",
+     "Expense and cost of the government",
+     "Unity and cooperation of the States"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It substitutes for the prohibited responsibility of the chief magistrate."
+   },
+   {
+    "sourceId": "f70jealousy",
+    "q": "Hamilton says the idea of a council comes from the maxim that power is safer in the hands of…",
+    "choices": [
+     "A number of men than a single man",
+     "A single man than a number of men",
+     "The people than their rulers",
+     "The legislature than the Executive"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It comes from a maxim of republican jealousy about power being safer in a number of men."
+   },
+   {
+    "sourceId": "f70jealousy",
+    "q": "“The executive power is more easily confined when it is ___.”",
+    "choices": [
+     "ONE",
+     "Numerous",
+     "Divided",
+     "Elected"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton agrees with this quoted writer."
+   },
+   {
+    "sourceId": "f70jealousy",
+    "q": "Why does Hamilton say it is safer to have a single executive?",
+    "choices": [
+     "The people then have a single object for their jealousy and watchfulness",
+     "One man needs no council to guide him",
+     "A single man can never be removed from office",
+     "The people trust him without needing to watch him"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A single object for the jealousy and watchfulness of the people is safer."
+   },
+   {
+    "sourceId": "f70numbers",
+    "q": "Hamilton says the security sought in multiplying the Executive is…",
+    "choices": [
+     "Unattainable",
+     "Easily achieved",
+     "Required by the Constitution",
+     "Cheap to maintain"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says that kind of security is unattainable."
+   },
+   {
+    "sourceId": "f70numbers",
+    "q": "A single man, being alone, will be more…",
+    "choices": [
+     "Narrowly watched and readily suspected",
+     "Trusted without any questions from the public",
+     "Hidden from the eyes of the public",
+     "Supported and advised by a council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Because he is alone he will be more narrowly watched and more readily suspected."
+   },
+   {
+    "sourceId": "f70numbers",
+    "q": "If power is in so few hands that an artful leader can easily combine them, it is…",
+    "choices": [
+     "More liable to abuse, and more dangerous when abused, than in one man",
+     "Safer than if the power were in one man",
+     "Exactly as safe as if the power were in one man",
+     "Impossible for anyone to abuse"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A small combinable number is more liable to abuse than one man."
+   },
+   {
+    "sourceId": "f70decem",
+    "q": "Which Roman group does Hamilton say was more to be dreaded in usurpation than any one of them would have been?",
+    "choices": [
+     "The Decemvirs",
+     "The Consuls",
+     "The Praetors",
+     "The Dictators"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The Decemvirs were more to be dreaded than any ONE of them."
+   },
+   {
+    "sourceId": "f70decem",
+    "q": "Hamilton says the name of the Decemvirs denotes their…",
+    "choices": [
+     "Number",
+     "Age",
+     "Wealth",
+     "Office"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Their name denotes their number."
+   },
+   {
+    "sourceId": "f70decem",
+    "q": "Hamilton says “from six to a dozen” have been suggested for…",
+    "choices": [
+     "The number of the council",
+     "The number of Consuls",
+     "The years of the Executive's term",
+     "The salary of each councillor"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Six to a dozen have been suggested for the number of the council."
+   },
+   {
+    "sourceId": "f70clog",
+    "q": "To a responsible magistrate, Hamilton says a council is generally nothing better than…",
+    "choices": [
+     "A clog upon his good intentions",
+     "A guide to good decisions",
+     "A guard against all abuse",
+     "A source of energy"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A council is generally “a clog upon his good intentions.”"
+   },
+   {
+    "sourceId": "f70clog",
+    "q": "A council is almost always a ___ to the magistrate's faults.",
+    "choices": [
+     "Cloak",
+     "Cure",
+     "Check",
+     "Witness"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: It is “almost always a cloak to his faults.”"
+   },
+   {
+    "sourceId": "f70expense",
+    "q": "Hamilton says a numerous council's salaries would be too serious an expense for an object of…",
+    "choices": [
+     "Equivocal utility",
+     "Certain benefit",
+     "Great glory",
+     "Perfect safety"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The expense would be incurred for an object of equivocal utility."
+   },
+   {
+    "sourceId": "f70expense",
+    "q": "Which cost does Hamilton mention against a numerous council?",
+    "choices": [
+     "Salaries of members who must live at the seat of government",
+     "The cost of fighting foreign wars",
+     "The cost of printing and publishing the laws",
+     "The cost of paying the Roman Tribunes"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Members would be drawn from their homes to reside at the seat of government."
+   },
+   {
+    "sourceId": "f70ending",
+    "q": "Hamilton says intelligent men admitted that the ___ of New York's executive was one of the best features of its constitution.",
+    "choices": [
+     "Unity",
+     "Duration",
+     "Plurality",
+     "Council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: He says the UNITY of the executive of this State was one of the best features."
+   },
+   {
+    "sourceId": "f70ending",
+    "q": "Which feature of New York's constitution did intelligent men say was one of its best?",
+    "choices": [
+     "A single executive",
+     "A council on every decision",
+     "Two equal governors",
+     "An executive chosen by lot"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: The unity of New York's executive was admitted to be one of the best features."
+   },
+   {
+    "sourceId": "f70vplural",
+    "q": "In Federalist 70, “plurality in the Executive” means…",
+    "choices": [
+     "More than one person sharing executive power",
+     "One person holding all executive power",
+     "The people choosing the Executive",
+     "A long term in office"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Plurality is the opposite of unity: two or more persons share executive power."
+   },
+   {
+    "sourceId": "f70vplural",
+    "q": "More than one person sharing executive power is called…",
+    "choices": [
+     "Plurality",
+     "Unity",
+     "Duration",
+     "Responsibility"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton argues against plurality in the Executive."
+   },
+   {
+    "sourceId": "f70vunity",
+    "q": "In Federalist 70, “unity” in the Executive means…",
+    "choices": [
+     "Executive power held by one person",
+     "Agreement between two Consuls",
+     "A council of equals",
+     "A permanent office"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Unity means the power is in one person, not shared."
+   },
+   {
+    "sourceId": "f70vunity",
+    "q": "Executive power held by one person is called…",
+    "choices": [
+     "Unity",
+     "Plurality",
+     "Censure",
+     "A cabal"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Unity is the first ingredient of energy."
+   },
+   {
+    "sourceId": "f70vcabal",
+    "q": "An “artful cabal” in a council is…",
+    "choices": [
+     "A scheming group acting together in secret",
+     "A formal vote taken by the whole council",
+     "A group of officials chosen by the people",
+     "An open and public debate in the council"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A cabal is a scheming group working together, here inside the council."
+   },
+   {
+    "sourceId": "f70vcabal",
+    "q": "A scheming group acting together in secret is a…",
+    "choices": [
+     "Cabal",
+     "Censure",
+     "Dictator",
+     "Tribune"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton warns an artful cabal in a council could distract and enervate administration."
+   },
+   {
+    "sourceId": "f70venervate",
+    "q": "To “enervate” the system of administration means to…",
+    "choices": [
+     "Weaken it",
+     "Strengthen it",
+     "Organize it",
+     "Expand it"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Enervate means to weaken."
+   },
+   {
+    "sourceId": "f70venervate",
+    "q": "Which word in the essay means to weaken?",
+    "choices": [
+     "Enervate",
+     "Conciliate",
+     "Promote",
+     "Embroil"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A cabal could “distract and enervate” the system."
+   },
+   {
+    "sourceId": "f70vdespatch",
+    "q": "“Despatch,” in “decision, activity, secrecy, and despatch,” means…",
+    "choices": [
+     "Speed in getting business done",
+     "Delay",
+     "Doubt",
+     "Disagreement"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Despatch means speed in handling business."
+   },
+   {
+    "sourceId": "f70vdespatch",
+    "q": "Speed in getting business done, listed with decision, activity, and secrecy, is…",
+    "choices": [
+     "Despatch",
+     "Emulation",
+     "Obstinacy",
+     "Censure"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: One man's proceedings show decision, activity, secrecy, and despatch."
+   },
+   {
+    "sourceId": "f70vcensure",
+    "q": "In Federalist 70, “censure” means…",
+    "choices": [
+     "Public blame or disapproval",
+     "A legal sentence of prison",
+     "An election result",
+     "A vote of confidence"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Censure is the first and more important kind of responsibility; punishment is the second."
+   },
+   {
+    "sourceId": "f70vcensure",
+    "q": "Public blame or disapproval is called…",
+    "choices": [
+     "Censure",
+     "Duration",
+     "Unity",
+     "Despatch"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton says censure is more important than punishment, especially in an elective office."
+   },
+   {
+    "sourceId": "f70vdilat",
+    "q": "“Dilatoriness” means…",
+    "choices": [
+     "A tendency to delay",
+     "Speed",
+     "Secrecy",
+     "Strength"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: A council's diversity of views gives the executive feebleness and dilatoriness."
+   },
+   {
+    "sourceId": "f70vdilat",
+    "q": "A tendency to delay is…",
+    "choices": [
+     "Dilatoriness",
+     "Despatch",
+     "Expedition",
+     "Vigor"
+    ],
+    "answer": 0,
+    "explain": "Fed 70: Hamilton warns of habitual feebleness and dilatoriness."
    }
   ]
  }
