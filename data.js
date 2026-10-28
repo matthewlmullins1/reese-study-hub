@@ -18,6 +18,13 @@ window.UNITS = [
   "emoji": "📐",
   "subject": "Precalculus",
   "subtitle": "11th Grade · Precalculus · Formulas to memorize · No test date set"
+ },
+ {
+  "id": "apgov-u5-presidency",
+  "title": "Unit 5: The Presidency (2.4–2.7)",
+  "emoji": "🇺🇸",
+  "subject": "AP Government",
+  "subtitle": "11th Grade · AP Gov · Chapter 5 · No test date set"
  }
 ];
 window.CONTENT = {
@@ -3141,6 +3148,1609 @@ window.CONTENT = {
     ],
     "answer": 0,
     "explain": "Cosine is negative in Quadrant III, so use −."
+   }
+  ]
+ },
+ "apgov-u5-presidency": {
+  "notice": "⚠️ Built only from the parts of your Chapter 5 guided notes (AMSCO) that were readable in your photos. Both notebook pages, the Veto / Pocket Veto answers, and a few words in other answers were too small or blurry to read, so they are NOT included (see \"Not included\" at the end of the guide). Federalist 70 is not on any readable page, so it is not in this unit. Nothing here comes from outside your notes. Check it against your own sheet.",
+  "sections": [
+   {
+    "title": "Essential Questions & Checkpoint Tip",
+    "bullets": [
+     "1. How can a president implement a policy agenda?",
+     "2. How could the president's agenda contribute to confrontations with Congress?",
+     "3. How have presidents interpreted and explained their use of formal and informal powers?",
+     "4. How has communication technology changed the president's relationship with the American people and other branches?",
+     "Chapter 5 Checkpoint tip: use process of elimination with an internal monologue, and make sure you can verbally justify why the correct answer is correct and the incorrect options are incorrect."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.4 Roles & Powers: Policy Agenda, Framers, Article II",
+    "bullets": [
+     "Policy agenda: the policies a president wants to address. Formal and informal powers help carry it out.",
+     "A. Framers' Vision: the framers wanted a single executive for clear leadership and accountability.",
+     "B. Article II: the president must be a natural-born citizen and a U.S. resident for 14 years. (Her notes also list an age requirement, but that part is too blurry to read; check your sheet.)",
+     "C. Powers, Functions & Policy Agenda: formal powers are written in the Constitution."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.4 Chief Legislator, Line-Item Veto, Commander in Chief, Chief Diplomat",
+    "bullets": [
+     "D. Chief Legislator: the president can't introduce bills directly but can recommend laws and pressure Congress.",
+     "Presidents use persuasion, bargaining, and speeches to persuade Congress to pass legislation.",
+     "F. Line-Item Veto: the Supreme Court struck down the 1996 law that granted it to the president.",
+     "G. Commander in Chief: the president commands the military, while Congress declares war.",
+     "Presidents claim \"in self-defense\" lets them use force to respond to immediate threats.",
+     "H. Chief Diplomat: treaties need Senate approval, while executive agreements do not.",
+     "Kennedy used an executive agreement to help end the Cuban Missile Crisis."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.4 Panama Canal & Chief Executive / Administrator",
+    "bullets": [
+     "I. Panama Canal: Theodore Roosevelt used \"gunboat diplomacy\" to gain control of the Canal Zone.",
+     "Jimmy Carter supported returning the canal to Panama.",
+     "J. Executive orders direct the executive branch.",
+     "Signing statement: explains how the president interprets a new law.",
+     "Executive privilege: protects some presidential information, but it is not absolute."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.5 Checks on the Presidency: Team, VP, Cabinet (pp. 200–209)",
+    "bullets": [
+     "Congress checks the president by overriding vetoes, controlling spending, confirming appointments, and impeachment.",
+     "A. The President's Team: the president appoints officials, while the Senate confirms many of them.",
+     "B. The Vice President: presides over the Senate and replaces the president if necessary.",
+     "C. Cabinet & Bureaucracy: Cabinet secretaries lead departments and help carry out presidential policies.",
+     "The State Department handles foreign affairs, while the Defense Department handles the military.",
+     "Federal agencies carry out laws and government programs."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.5 Immediate Staff, Other Branches, Checks",
+    "bullets": [
+     "D. Immediate Staff: the Executive Office of the President (EOP) provides advice and support to the president.",
+     "White House staff usually have a closer relationship with the president than Cabinet secretaries.",
+     "The chief of staff manages the White House and controls access to the president.",
+     "E. Interactions with Other Branches: conflict can occur because the president needs Congress to provide funding.",
+     "F. Checks on Presidential Powers: Congress and the courts check the president, while inherent powers are powers claimed as necessary."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.5 Senate & Appointees, Removal, Courts",
+    "bullets": [
+     "G. The Senate confirms many presidential appointees.",
+     "Recess appointments temporarily fill positions while the Senate is away.",
+     "John Tower faced concerns about his conduct, while Betsy DeVos faced opposition over her education views and qualifications.",
+     "H. Removal: presidents generally have the power to remove executive officials; the Supreme Court says some limits exist.",
+     "I. Judicial Interactions: courts can review presidential actions for legality and constitutionality.",
+     "Judicial appointments matter because judges have life terms."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.6 Expansion of Presidential Power (pp. 210–217)",
+    "bullets": [
+     "The presidency grew stronger because of wars, crises, technology, and government growth.",
+     "A. An Enhanced Presidency: wars, crises, and technology have increased presidential power.",
+     "B. Interpretation of Power: Washington established precedents like creating a cabinet.",
+     "The \"imperial presidency\" (characterized by historian Arthur Schlesinger Jr.) is a very powerful presidency.",
+     "C. Personality & Popularity: Andrew Jackson used his popularity and veto power to expand presidential influence.",
+     "D. National Crisis: Lincoln suspended habeas corpus and took emergency actions during the Civil War.",
+     "E. On the World Stage: Theodore Roosevelt and Woodrow Wilson expanded presidential involvement in foreign affairs.",
+     "F. The Turning Point: FDR expanded government through the New Deal and WWII leadership.",
+     "FDR's court-packing plan would have added Supreme Court justices.",
+     "The 22nd Amendment limits presidents to 2 elected terms.",
+     "G. Contemporary Expansion: the Gulf of Tonkin Resolution gave LBJ broad authority in Vietnam.",
+     "The War Powers Act limits presidential military action and requires congressional notification.",
+     "Trump declared a border emergency and redirected funds toward a border wall."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "2.7 Presidential Communication (pp. 218–223)",
+    "bullets": [
+     "Technology allows presidents to communicate directly and quickly with Americans.",
+     "A. Communicator in Chief: communication helps presidents gain public support for their policies.",
+     "B. Relationship with the Press: the bully pulpit is the president's ability to influence public opinion (Theodore Roosevelt on the worksheet).",
+     "FDR used fireside chats to explain his policies.",
+     "C. State of the Union: informs Congress about the country's condition and priorities.",
+     "Woodrow Wilson delivered it in person, making it a stronger political tool.",
+     "D. Communications Staff: the press secretary communicates the administration's views to the media.",
+     "George W. Bush's administration used controlled media access to influence coverage.",
+     "E. Modern Technology & a Social Media President: Obama used social media and digital platforms to reach Americans.",
+     "Obama's team used photos and digital content to shape his public image.",
+     "Trump used Twitter to communicate directly and immediately with the public."
+    ],
+    "highlight": []
+   },
+   {
+    "title": "Not included (couldn't read the photos)",
+    "bullets": [
+     "Both handwritten notebook pages were too small or blurry to read.",
+     "2.4 E. Veto: the three answers (presidential veto, veto override, pocket veto) were not readable.",
+     "2.4 I. Panama Canal: why Carter considered returning it morally important (the \"why\" part was unclear).",
+     "2.4 A. Framers: the end of the second sentence. 2.4 B. Article II: the age requirement and the list of powers. 2.4 C: what informal powers come from.",
+     "2.4 J: the limits on executive orders and the critics' argument about signing statements.",
+     "2.4 F. Line-Item Veto: the exact reason the Court struck it down was not clear enough to include.",
+     "Chapter 5 Checkpoint answer table (1–3).",
+     "One photo (image3) did not come through in the email."
+    ],
+    "highlight": []
+   }
+  ],
+  "flashcards": [
+   {
+    "front": "The policies a president wants to address",
+    "back": "Policy agenda"
+   },
+   {
+    "front": "Powers written in the Constitution",
+    "back": "Formal powers"
+   },
+   {
+    "front": "Powers claimed as necessary",
+    "back": "Inherent powers"
+   },
+   {
+    "front": "Why the framers created a single executive: clear leadership and ___",
+    "back": "Accountability"
+   },
+   {
+    "front": "The role in which the president recommends laws and pressures Congress",
+    "back": "Chief legislator"
+   },
+   {
+    "front": "Directs the executive branch",
+    "back": "Executive order"
+   },
+   {
+    "front": "Explains how the president interprets a new law",
+    "back": "Signing statement"
+   },
+   {
+    "front": "Protects some presidential information, but is not absolute",
+    "back": "Executive privilege"
+   },
+   {
+    "front": "The 1996 law the Supreme Court struck down that granted the president this power",
+    "back": "Line-item veto"
+   },
+   {
+    "front": "The role in which the president commands the military (Congress declares war)",
+    "back": "Commander in chief"
+   },
+   {
+    "front": "Needs Senate approval",
+    "back": "Treaty"
+   },
+   {
+    "front": "Does NOT need Senate approval; Kennedy used one in the Cuban Missile Crisis",
+    "back": "Executive agreement"
+   },
+   {
+    "front": "Theodore Roosevelt's approach to gain control of the Canal Zone",
+    "back": "Gunboat diplomacy"
+   },
+   {
+    "front": "The president appoints officials; this body confirms many of them",
+    "back": "The Senate"
+   },
+   {
+    "front": "Presides over the Senate and replaces the president if necessary",
+    "back": "Vice president"
+   },
+   {
+    "front": "Lead departments and help carry out presidential policies",
+    "back": "Cabinet secretaries"
+   },
+   {
+    "front": "Handles foreign affairs",
+    "back": "State Department"
+   },
+   {
+    "front": "Handles the military",
+    "back": "Defense Department"
+   },
+   {
+    "front": "Carry out laws and government programs",
+    "back": "Federal agencies"
+   },
+   {
+    "front": "Provides advice and support to the president",
+    "back": "Executive Office of the President (EOP)"
+   },
+   {
+    "front": "Manages the White House and controls access to the president",
+    "back": "Chief of staff"
+   },
+   {
+    "front": "Temporarily fills positions while the Senate is away",
+    "back": "Recess appointment"
+   },
+   {
+    "front": "The president's power to remove executive officials (some limits exist)",
+    "back": "Removal power"
+   },
+   {
+    "front": "Judges have these, which is why judicial appointments matter",
+    "back": "Life terms"
+   },
+   {
+    "front": "A very powerful presidency (term used by Arthur Schlesinger Jr.)",
+    "back": "Imperial presidency"
+   },
+   {
+    "front": "Lincoln suspended this during the Civil War",
+    "back": "Habeas corpus"
+   },
+   {
+    "front": "FDR's plan that would have added Supreme Court justices",
+    "back": "Court-packing plan"
+   },
+   {
+    "front": "Limits presidents to 2 elected terms",
+    "back": "22nd Amendment"
+   },
+   {
+    "front": "Gave LBJ broad authority in Vietnam",
+    "back": "Gulf of Tonkin Resolution"
+   },
+   {
+    "front": "Limits presidential military action and requires congressional notification",
+    "back": "War Powers Act"
+   },
+   {
+    "front": "Trump declared this and redirected funds toward a border wall",
+    "back": "Border emergency"
+   },
+   {
+    "front": "The president's ability to influence public opinion",
+    "back": "Bully pulpit"
+   },
+   {
+    "front": "FDR's radio talks to explain his policies",
+    "back": "Fireside chats"
+   },
+   {
+    "front": "Informs Congress about the country's condition and priorities",
+    "back": "State of the Union address"
+   },
+   {
+    "front": "Delivered the State of the Union in person, making it a stronger political tool",
+    "back": "Woodrow Wilson"
+   },
+   {
+    "front": "Communicates the administration's views to the media",
+    "back": "Press secretary"
+   },
+   {
+    "front": "Used controlled media access to influence coverage",
+    "back": "George W. Bush's administration"
+   },
+   {
+    "front": "Used social media and digital platforms to reach Americans; his team used photos and digital content to shape his image",
+    "back": "Obama"
+   },
+   {
+    "front": "Used Twitter to communicate directly and immediately with the public",
+    "back": "Trump"
+   }
+  ],
+  "quiz": [
+   {
+    "sourceId": "agenda",
+    "q": "What is a policy agenda?",
+    "choices": [
+     "The policies a president wants to address",
+     "The list of bills Congress has already passed",
+     "The president's schedule of meetings with the press",
+     "The Supreme Court's list of cases for the year"
+    ],
+    "answer": 0,
+    "explain": "A policy agenda is the policies a president wants to address."
+   },
+   {
+    "sourceId": "agenda",
+    "q": "The policies a president wants to address are called the…",
+    "choices": [
+     "Policy agenda",
+     "Executive order",
+     "Signing statement",
+     "Line-item veto"
+    ],
+    "answer": 0,
+    "explain": "Her notes: a policy agenda is the policies a president wants to address."
+   },
+   {
+    "sourceId": "single",
+    "q": "Why did the framers create a single executive?",
+    "choices": [
+     "For clear leadership and accountability",
+     "So the Senate could run the executive branch",
+     "So the president could declare war",
+     "So the Supreme Court could lead the government"
+    ],
+    "answer": 0,
+    "explain": "The framers wanted one executive for clear leadership and accountability."
+   },
+   {
+    "sourceId": "single",
+    "q": "The framers wanted a single executive for clear leadership and ___.",
+    "choices": [
+     "Accountability",
+     "Life terms",
+     "The line-item veto",
+     "A court-packing plan"
+    ],
+    "answer": 0,
+    "explain": "Single executive = clear leadership and accountability."
+   },
+   {
+    "sourceId": "article2",
+    "q": "How many years must a president have been a U.S. resident?",
+    "choices": [
+     "14 years",
+     "7 years",
+     "9 years",
+     "2 years"
+    ],
+    "answer": 0,
+    "explain": "Her notes: a U.S. resident for 14 years."
+   },
+   {
+    "sourceId": "article2",
+    "q": "The president must be a ___ citizen.",
+    "choices": [
+     "Natural-born",
+     "Naturalized",
+     "Dual",
+     "State-appointed"
+    ],
+    "answer": 0,
+    "explain": "Her notes list natural-born citizen as a requirement."
+   },
+   {
+    "sourceId": "formal",
+    "q": "What are formal powers?",
+    "choices": [
+     "Powers written in the Constitution",
+     "Powers claimed as necessary by the president",
+     "Powers that only Congress can use",
+     "Powers the Senate votes to give each president"
+    ],
+    "answer": 0,
+    "explain": "Formal powers are written in the Constitution."
+   },
+   {
+    "sourceId": "formal",
+    "q": "Powers written in the Constitution are called…",
+    "choices": [
+     "Formal powers",
+     "Inherent powers",
+     "Recess powers",
+     "Signing powers"
+    ],
+    "answer": 0,
+    "explain": "Formal powers are the ones written in the Constitution."
+   },
+   {
+    "sourceId": "chiefleg",
+    "q": "How can the president act as chief legislator without introducing bills directly?",
+    "choices": [
+     "By recommending laws and pressuring Congress",
+     "By writing and voting on bills in the Senate",
+     "By appointing members of Congress",
+     "By signing bills before Congress votes on them"
+    ],
+    "answer": 0,
+    "explain": "The president can't introduce bills directly but can recommend laws and pressure Congress."
+   },
+   {
+    "sourceId": "chiefleg",
+    "q": "Which role has the president recommending laws and pressuring Congress?",
+    "choices": [
+     "Chief legislator",
+     "Commander in chief",
+     "Chief diplomat",
+     "Communicator in chief"
+    ],
+    "answer": 0,
+    "explain": "As chief legislator, the president recommends laws and pressures Congress."
+   },
+   {
+    "sourceId": "persuade",
+    "q": "Which is NOT a method presidents use to persuade Congress?",
+    "choices": [
+     "Holding a filibuster",
+     "Persuasion",
+     "Bargaining",
+     "Giving speeches"
+    ],
+    "answer": 0,
+    "explain": "Presidents use persuasion, bargaining, and speeches; a filibuster isn't one of them."
+   },
+   {
+    "sourceId": "trpanama",
+    "q": "Which president used \"gunboat diplomacy\" to gain control of the Canal Zone?",
+    "choices": [
+     "Theodore Roosevelt",
+     "Jimmy Carter",
+     "John F. Kennedy",
+     "Abraham Lincoln"
+    ],
+    "answer": 0,
+    "explain": "Theodore Roosevelt used gunboat diplomacy to gain control of the Canal Zone."
+   },
+   {
+    "sourceId": "trpanama",
+    "q": "What did Theodore Roosevelt use to gain control of the Canal Zone?",
+    "choices": [
+     "Gunboat diplomacy",
+     "Fireside chats",
+     "A court-packing plan",
+     "An executive agreement"
+    ],
+    "answer": 0,
+    "explain": "Roosevelt used gunboat diplomacy to gain control of the Canal Zone."
+   },
+   {
+    "sourceId": "carter",
+    "q": "Which president supported returning the Panama Canal to Panama?",
+    "choices": [
+     "Jimmy Carter",
+     "Theodore Roosevelt",
+     "John F. Kennedy",
+     "Abraham Lincoln"
+    ],
+    "answer": 0,
+    "explain": "Carter supported returning the canal to Panama."
+   },
+   {
+    "sourceId": "carter",
+    "q": "What did President Carter support doing with the Panama Canal?",
+    "choices": [
+     "Returning it to Panama",
+     "Expanding the Canal Zone",
+     "Closing it",
+     "Selling it to Congress"
+    ],
+    "answer": 0,
+    "explain": "Carter supported returning the canal to Panama."
+   },
+   {
+    "sourceId": "eo",
+    "q": "What are executive orders used to do?",
+    "choices": [
+     "Direct the executive branch",
+     "Declare war",
+     "Override a veto",
+     "Confirm presidential appointees"
+    ],
+    "answer": 0,
+    "explain": "Executive orders direct the executive branch."
+   },
+   {
+    "sourceId": "eo",
+    "q": "Which tool directs the executive branch?",
+    "choices": [
+     "Executive order",
+     "Fireside chat",
+     "Gunboat diplomacy",
+     "Line-item veto"
+    ],
+    "answer": 0,
+    "explain": "An executive order directs the executive branch."
+   },
+   {
+    "sourceId": "sign",
+    "q": "What is a signing statement?",
+    "choices": [
+     "An explanation of how the president interprets a new law",
+     "A veto message returned to Congress",
+     "A speech to Congress about the country's condition",
+     "A court's explanation of its ruling"
+    ],
+    "answer": 0,
+    "explain": "A signing statement explains how the president interprets a new law."
+   },
+   {
+    "sourceId": "sign",
+    "q": "Which is an explanation of how the president interprets a new law?",
+    "choices": [
+     "Signing statement",
+     "Executive order",
+     "Executive agreement",
+     "Fireside chat"
+    ],
+    "answer": 0,
+    "explain": "A signing statement explains how the president interprets a new law."
+   },
+   {
+    "sourceId": "priv",
+    "q": "What does executive privilege protect?",
+    "choices": [
+     "Some presidential information",
+     "Every presidential action from court review",
+     "Senate votes on appointments",
+     "Congressional spending bills"
+    ],
+    "answer": 0,
+    "explain": "Executive privilege protects some presidential information, but it is not absolute."
+   },
+   {
+    "sourceId": "priv",
+    "q": "Which protects some presidential information but is not absolute?",
+    "choices": [
+     "Executive privilege",
+     "Executive agreement",
+     "Signing statement",
+     "Bully pulpit"
+    ],
+    "answer": 0,
+    "explain": "That describes executive privilege."
+   },
+   {
+    "sourceId": "lineitem",
+    "q": "Which body struck down the 1996 law granting the president a line-item veto?",
+    "choices": [
+     "The Supreme Court",
+     "Congress",
+     "The Senate",
+     "The president"
+    ],
+    "answer": 0,
+    "explain": "The worksheet asks why the Supreme Court struck down the 1996 line-item veto law."
+   },
+   {
+    "sourceId": "lineitem",
+    "q": "The 1996 law that the Supreme Court struck down granted the president a…",
+    "choices": [
+     "Line-item veto",
+     "Signing statement",
+     "Executive agreement",
+     "Recess appointment"
+    ],
+    "answer": 0,
+    "explain": "The Supreme Court struck down the 1996 line-item veto law."
+   },
+   {
+    "sourceId": "cic",
+    "q": "Who declares war?",
+    "choices": [
+     "Congress",
+     "The president",
+     "The Supreme Court",
+     "The Secretary of Defense"
+    ],
+    "answer": 0,
+    "explain": "The president commands the military, while Congress declares war."
+   },
+   {
+    "sourceId": "cic",
+    "q": "In which role does the president command the military?",
+    "choices": [
+     "Commander in chief",
+     "Chief diplomat",
+     "Chief legislator",
+     "Communicator in chief"
+    ],
+    "answer": 0,
+    "explain": "As commander in chief, the president commands the military."
+   },
+   {
+    "sourceId": "selfdef",
+    "q": "Presidents claim \"in self-defense\" lets them…",
+    "choices": [
+     "Use force to respond to immediate threats",
+     "Override a veto",
+     "Confirm Cabinet appointees",
+     "Remove Supreme Court justices"
+    ],
+    "answer": 0,
+    "explain": "Presidents claim they can use force to respond to immediate threats."
+   },
+   {
+    "sourceId": "treaty",
+    "q": "Which needs Senate approval?",
+    "choices": [
+     "Treaties",
+     "Executive agreements",
+     "Fireside chats",
+     "State of the Union addresses"
+    ],
+    "answer": 0,
+    "explain": "Treaties need Senate approval, while executive agreements do not."
+   },
+   {
+    "sourceId": "treaty",
+    "q": "Which requires NO Senate approval?",
+    "choices": [
+     "Executive agreement",
+     "Treaty",
+     "Cabinet secretary appointment",
+     "Federal judge appointment"
+    ],
+    "answer": 0,
+    "explain": "Executive agreements do not need Senate approval."
+   },
+   {
+    "sourceId": "kennedy",
+    "q": "Which president used an executive agreement to help end the Cuban Missile Crisis?",
+    "choices": [
+     "John F. Kennedy",
+     "Theodore Roosevelt",
+     "Franklin D. Roosevelt",
+     "Jimmy Carter"
+    ],
+    "answer": 0,
+    "explain": "Kennedy used an executive agreement to help end the Cuban Missile Crisis."
+   },
+   {
+    "sourceId": "kennedy",
+    "q": "What did Kennedy use to help end the Cuban Missile Crisis?",
+    "choices": [
+     "An executive agreement",
+     "A treaty ratified by the Senate",
+     "A signing statement",
+     "A fireside chat"
+    ],
+    "answer": 0,
+    "explain": "Kennedy used an executive agreement during the Cuban Missile Crisis."
+   },
+   {
+    "sourceId": "congresschecks",
+    "q": "Which is a check Congress has on the president?",
+    "choices": [
+     "Impeachment",
+     "Issuing executive orders",
+     "Delivering fireside chats",
+     "Writing signing statements"
+    ],
+    "answer": 0,
+    "explain": "Congress can override vetoes, control spending, confirm appointments, and impeach."
+   },
+   {
+    "sourceId": "congresschecks",
+    "q": "Which is NOT a check Congress has on the president?",
+    "choices": [
+     "Issuing executive orders",
+     "Overriding vetoes",
+     "Controlling spending",
+     "Impeachment"
+    ],
+    "answer": 0,
+    "explain": "Congress can override vetoes, control spending, confirm appointments, and impeach; executive orders come from the president."
+   },
+   {
+    "sourceId": "appoint",
+    "q": "Who confirms many presidential appointees?",
+    "choices": [
+     "The Senate",
+     "The House",
+     "The Supreme Court",
+     "The vice president"
+    ],
+    "answer": 0,
+    "explain": "The president appoints officials, while the Senate confirms many of them."
+   },
+   {
+    "sourceId": "appoint",
+    "q": "Who appoints officials such as Cabinet secretaries?",
+    "choices": [
+     "The president",
+     "The Senate",
+     "The Supreme Court",
+     "The press secretary"
+    ],
+    "answer": 0,
+    "explain": "The president appoints officials; the Senate confirms many of them."
+   },
+   {
+    "sourceId": "vp",
+    "q": "Who presides over the Senate?",
+    "choices": [
+     "The vice president",
+     "The chief of staff",
+     "The Secretary of State",
+     "The press secretary"
+    ],
+    "answer": 0,
+    "explain": "The vice president presides over the Senate."
+   },
+   {
+    "sourceId": "vp",
+    "q": "Who replaces the president if necessary?",
+    "choices": [
+     "The vice president",
+     "The chief of staff",
+     "The press secretary",
+     "A Supreme Court justice"
+    ],
+    "answer": 0,
+    "explain": "The vice president replaces the president if necessary."
+   },
+   {
+    "sourceId": "cabinet",
+    "q": "What do Cabinet secretaries do?",
+    "choices": [
+     "Lead departments and help carry out presidential policies",
+     "Write laws for Congress",
+     "Review whether laws are constitutional",
+     "Confirm presidential appointees"
+    ],
+    "answer": 0,
+    "explain": "Cabinet secretaries lead departments and help carry out presidential policies."
+   },
+   {
+    "sourceId": "cabinet",
+    "q": "Who leads departments and helps carry out presidential policies?",
+    "choices": [
+     "Cabinet secretaries",
+     "The chief of staff",
+     "The press secretary",
+     "Federal agencies"
+    ],
+    "answer": 0,
+    "explain": "Cabinet secretaries lead departments and help carry out presidential policies."
+   },
+   {
+    "sourceId": "statedefense",
+    "q": "Which department handles foreign affairs?",
+    "choices": [
+     "The State Department",
+     "The Defense Department",
+     "The Executive Office of the President",
+     "The White House Office"
+    ],
+    "answer": 0,
+    "explain": "State handles foreign affairs, while Defense handles the military."
+   },
+   {
+    "sourceId": "statedefense",
+    "q": "Which department handles the military?",
+    "choices": [
+     "The Defense Department",
+     "The State Department",
+     "The Executive Office of the President",
+     "The White House Office"
+    ],
+    "answer": 0,
+    "explain": "State handles foreign affairs, while Defense handles the military."
+   },
+   {
+    "sourceId": "agencies",
+    "q": "What do federal agencies do?",
+    "choices": [
+     "Carry out laws and government programs",
+     "Write laws for Congress",
+     "Confirm presidential appointees",
+     "Declare war"
+    ],
+    "answer": 0,
+    "explain": "Federal agencies carry out laws and government programs."
+   },
+   {
+    "sourceId": "agencies",
+    "q": "Which group carries out laws and government programs?",
+    "choices": [
+     "Federal agencies",
+     "The Senate",
+     "The Supreme Court",
+     "The press office"
+    ],
+    "answer": 0,
+    "explain": "Federal agencies carry out laws and government programs."
+   },
+   {
+    "sourceId": "eop",
+    "q": "Which provides advice and support to the president?",
+    "choices": [
+     "The Executive Office of the President (EOP)",
+     "The Senate",
+     "The Supreme Court",
+     "Federal agencies"
+    ],
+    "answer": 0,
+    "explain": "The EOP provides advice and support to the president."
+   },
+   {
+    "sourceId": "eop",
+    "q": "What does the EOP provide?",
+    "choices": [
+     "Advice and support to the president",
+     "Confirmation of appointees",
+     "Review of laws",
+     "Oversight of Congress"
+    ],
+    "answer": 0,
+    "explain": "The EOP provides advice and support to the president."
+   },
+   {
+    "sourceId": "staff",
+    "q": "Who usually has a closer relationship with the president?",
+    "choices": [
+     "White House staff",
+     "Cabinet secretaries",
+     "Federal agencies",
+     "Senators"
+    ],
+    "answer": 0,
+    "explain": "White House staff usually have a closer relationship with the president than Cabinet secretaries."
+   },
+   {
+    "sourceId": "staff",
+    "q": "What does the chief of staff do?",
+    "choices": [
+     "Manages the White House and controls access to the president",
+     "Presides over the Senate",
+     "Communicates the administration's views to the media",
+     "Leads the Defense Department"
+    ],
+    "answer": 0,
+    "explain": "The chief of staff manages the White House and controls access to the president."
+   },
+   {
+    "sourceId": "staff",
+    "q": "Who manages the White House and controls access to the president?",
+    "choices": [
+     "The chief of staff",
+     "The press secretary",
+     "The vice president",
+     "The Secretary of State"
+    ],
+    "answer": 0,
+    "explain": "That is the chief of staff."
+   },
+   {
+    "sourceId": "conflict",
+    "q": "Why can conflict occur between the president and Congress?",
+    "choices": [
+     "The president needs Congress to provide funding",
+     "The president can appoint members of Congress",
+     "Congress cannot pass any laws",
+     "Cabinet secretaries lead Congress"
+    ],
+    "answer": 0,
+    "explain": "Conflict can occur because the president needs Congress to provide funding."
+   },
+   {
+    "sourceId": "inherent",
+    "q": "What are inherent powers?",
+    "choices": [
+     "Powers claimed as necessary",
+     "Powers written in the Constitution",
+     "Powers granted by the 22nd Amendment",
+     "Powers the Senate votes to give"
+    ],
+    "answer": 0,
+    "explain": "Inherent powers are powers claimed as necessary."
+   },
+   {
+    "sourceId": "inherent",
+    "q": "Powers claimed as necessary are called…",
+    "choices": [
+     "Inherent powers",
+     "Formal powers",
+     "Impeachment powers",
+     "Appointment powers"
+    ],
+    "answer": 0,
+    "explain": "Inherent powers are powers claimed as necessary."
+   },
+   {
+    "sourceId": "congresschecks",
+    "q": "Which two institutions check the president?",
+    "choices": [
+     "Congress and the courts",
+     "The Cabinet and the EOP",
+     "The press secretary and chief of staff",
+     "White House staff and federal agencies"
+    ],
+    "answer": 0,
+    "explain": "Congress and the courts check the president."
+   },
+   {
+    "sourceId": "recess",
+    "q": "What do recess appointments do?",
+    "choices": [
+     "Temporarily fill positions while the Senate is away",
+     "Permanently confirm judges for life",
+     "Declare war while Congress is away",
+     "Remove Cabinet secretaries"
+    ],
+    "answer": 0,
+    "explain": "Recess appointments temporarily fill positions while the Senate is away."
+   },
+   {
+    "sourceId": "recess",
+    "q": "What is it called when a president temporarily fills positions while the Senate is away?",
+    "choices": [
+     "Recess appointment",
+     "Signing statement",
+     "Executive agreement",
+     "Line-item veto"
+    ],
+    "answer": 0,
+    "explain": "That is a recess appointment."
+   },
+   {
+    "sourceId": "nominees",
+    "q": "John Tower's nomination as secretary of defense faced concerns about his…",
+    "choices": [
+     "Conduct",
+     "Education views",
+     "Use of executive privilege",
+     "Support for the line-item veto"
+    ],
+    "answer": 0,
+    "explain": "Tower faced conduct concerns."
+   },
+   {
+    "sourceId": "nominees",
+    "q": "Betsy DeVos, nominated as education secretary, faced opposition over her…",
+    "choices": [
+     "Education views and qualifications",
+     "Conduct",
+     "Use of executive orders",
+     "Use of executive privilege"
+    ],
+    "answer": 0,
+    "explain": "DeVos faced opposition over her education views and qualifications."
+   },
+   {
+    "sourceId": "remove",
+    "q": "Which statement about the president's removal power is correct?",
+    "choices": [
+     "Presidents generally can remove executive officials, with some limits",
+     "Presidents can never remove executive officials",
+     "Presidents can remove anyone with no limits at all",
+     "Only the Senate can remove executive officials"
+    ],
+    "answer": 0,
+    "explain": "Presidents generally have the power to remove executive officials, and some limits exist."
+   },
+   {
+    "sourceId": "remove",
+    "q": "What is the power to dismiss executive officials called?",
+    "choices": [
+     "Removal power",
+     "Veto power",
+     "Recess power",
+     "Signing power"
+    ],
+    "answer": 0,
+    "explain": "The president's power to remove executive officials is the removal power."
+   },
+   {
+    "sourceId": "review",
+    "q": "What can courts review presidential actions for?",
+    "choices": [
+     "Legality and constitutionality",
+     "Popularity",
+     "Speed",
+     "Party loyalty"
+    ],
+    "answer": 0,
+    "explain": "Courts can review presidential actions for legality and constitutionality."
+   },
+   {
+    "sourceId": "review",
+    "q": "Which branch can review presidential actions for legality and constitutionality?",
+    "choices": [
+     "The courts (judicial branch)",
+     "The White House Office",
+     "The Cabinet",
+     "The press office"
+    ],
+    "answer": 0,
+    "explain": "Courts can review presidential actions for legality and constitutionality."
+   },
+   {
+    "sourceId": "judges",
+    "q": "Why do judicial appointments matter so much?",
+    "choices": [
+     "Judges have life terms",
+     "Judges serve 2-year terms",
+     "Judges are elected by voters",
+     "Judges can be removed by the president at will"
+    ],
+    "answer": 0,
+    "explain": "Judicial appointments matter because judges have life terms."
+   },
+   {
+    "sourceId": "grew",
+    "q": "Which factor helped make the presidency more powerful?",
+    "choices": [
+     "Wars and crises",
+     "Fewer government programs",
+     "Less use of technology",
+     "Shorter Senate terms"
+    ],
+    "answer": 0,
+    "explain": "The presidency grew stronger because of wars, crises, technology, and government growth."
+   },
+   {
+    "sourceId": "grew",
+    "q": "Which is NOT a reason the presidency grew stronger?",
+    "choices": [
+     "A decline in the size of government",
+     "Wars",
+     "Crises",
+     "Technology"
+    ],
+    "answer": 0,
+    "explain": "Wars, crises, technology, and government growth made the presidency stronger."
+   },
+   {
+    "sourceId": "wash",
+    "q": "Which president established precedents like creating a cabinet?",
+    "choices": [
+     "George Washington",
+     "Andrew Jackson",
+     "Abraham Lincoln",
+     "Franklin D. Roosevelt"
+    ],
+    "answer": 0,
+    "explain": "Washington established precedents like creating a cabinet."
+   },
+   {
+    "sourceId": "wash",
+    "q": "Washington established precedents, such as creating a…",
+    "choices": [
+     "Cabinet",
+     "Line-item veto",
+     "Court-packing plan",
+     "Fireside chat"
+    ],
+    "answer": 0,
+    "explain": "Washington established precedents like creating a cabinet."
+   },
+   {
+    "sourceId": "imperial",
+    "q": "What is the \"imperial presidency\"?",
+    "choices": [
+     "A very powerful presidency",
+     "A presidency limited to one term",
+     "A presidency controlled by Congress",
+     "A presidency with no cabinet"
+    ],
+    "answer": 0,
+    "explain": "The imperial presidency is a very powerful presidency."
+   },
+   {
+    "sourceId": "imperial",
+    "q": "A very powerful presidency is called the…",
+    "choices": [
+     "Imperial presidency",
+     "Bully pulpit",
+     "Court-packing plan",
+     "Gunboat diplomacy"
+    ],
+    "answer": 0,
+    "explain": "The imperial presidency is a very powerful presidency."
+   },
+   {
+    "sourceId": "jackson",
+    "q": "Which president used his popularity and veto power to expand presidential influence?",
+    "choices": [
+     "Andrew Jackson",
+     "Abraham Lincoln",
+     "Jimmy Carter",
+     "John F. Kennedy"
+    ],
+    "answer": 0,
+    "explain": "Jackson used his popularity and veto power to expand presidential influence."
+   },
+   {
+    "sourceId": "lincoln",
+    "q": "Which president suspended habeas corpus during the Civil War?",
+    "choices": [
+     "Abraham Lincoln",
+     "George Washington",
+     "Andrew Jackson",
+     "Franklin D. Roosevelt"
+    ],
+    "answer": 0,
+    "explain": "Lincoln suspended habeas corpus and took emergency actions during the Civil War."
+   },
+   {
+    "sourceId": "lincoln",
+    "q": "What did Lincoln suspend during the Civil War?",
+    "choices": [
+     "Habeas corpus",
+     "Executive privilege",
+     "The line-item veto",
+     "The court-packing plan"
+    ],
+    "answer": 0,
+    "explain": "Lincoln suspended habeas corpus."
+   },
+   {
+    "sourceId": "trwilson",
+    "q": "Which two presidents expanded presidential involvement in foreign affairs?",
+    "choices": [
+     "Theodore Roosevelt and Woodrow Wilson",
+     "George Washington and Andrew Jackson",
+     "Andrew Jackson and Abraham Lincoln",
+     "Abraham Lincoln and George Washington"
+    ],
+    "answer": 0,
+    "explain": "Roosevelt and Wilson expanded presidential involvement in foreign affairs."
+   },
+   {
+    "sourceId": "fdr",
+    "q": "Which president expanded government through the New Deal and WWII leadership?",
+    "choices": [
+     "Franklin D. Roosevelt",
+     "Woodrow Wilson",
+     "Abraham Lincoln",
+     "Andrew Jackson"
+    ],
+    "answer": 0,
+    "explain": "FDR expanded government through the New Deal and WWII leadership."
+   },
+   {
+    "sourceId": "fdr",
+    "q": "FDR's New Deal and ___ leadership changed the presidency.",
+    "choices": [
+     "WWII",
+     "Civil War",
+     "Vietnam War",
+     "Gulf of Tonkin"
+    ],
+    "answer": 0,
+    "explain": "FDR expanded government through the New Deal and WWII leadership."
+   },
+   {
+    "sourceId": "court",
+    "q": "FDR's court-packing plan would have…",
+    "choices": [
+     "Added Supreme Court justices",
+     "Removed all Supreme Court justices",
+     "Limited presidents to 2 terms",
+     "Let Congress declare war"
+    ],
+    "answer": 0,
+    "explain": "FDR's court-packing plan would have added Supreme Court justices."
+   },
+   {
+    "sourceId": "court",
+    "q": "Which FDR plan would have added Supreme Court justices?",
+    "choices": [
+     "Court-packing plan",
+     "New Deal",
+     "Fireside chats",
+     "Gunboat diplomacy"
+    ],
+    "answer": 0,
+    "explain": "The court-packing plan would have added Supreme Court justices."
+   },
+   {
+    "sourceId": "amend22",
+    "q": "Which amendment limits presidents to 2 elected terms?",
+    "choices": [
+     "The 22nd Amendment",
+     "The 17th Amendment",
+     "The 16th Amendment",
+     "The 19th Amendment"
+    ],
+    "answer": 0,
+    "explain": "The 22nd Amendment limits presidents to 2 elected terms."
+   },
+   {
+    "sourceId": "amend22",
+    "q": "The 22nd Amendment limits presidents to…",
+    "choices": [
+     "2 elected terms",
+     "1 term",
+     "3 elected terms",
+     "4 elected terms"
+    ],
+    "answer": 0,
+    "explain": "The 22nd Amendment limits presidents to 2 elected terms."
+   },
+   {
+    "sourceId": "tonkin",
+    "q": "Which resolution gave LBJ broad authority in Vietnam?",
+    "choices": [
+     "The Gulf of Tonkin Resolution",
+     "The War Powers Act",
+     "The 22nd Amendment",
+     "An executive agreement"
+    ],
+    "answer": 0,
+    "explain": "The Gulf of Tonkin Resolution gave LBJ broad authority in Vietnam."
+   },
+   {
+    "sourceId": "wpa",
+    "q": "Which law limits presidential military action and requires congressional notification?",
+    "choices": [
+     "The War Powers Act",
+     "The Gulf of Tonkin Resolution",
+     "The 22nd Amendment",
+     "The line-item veto law"
+    ],
+    "answer": 0,
+    "explain": "The War Powers Act limits presidential military action and requires congressional notification."
+   },
+   {
+    "sourceId": "wpa",
+    "q": "The War Powers Act requires the president to…",
+    "choices": [
+     "Notify Congress about military action",
+     "Declare war without Congress",
+     "Get the Supreme Court's permission first",
+     "Return power to the states"
+    ],
+    "answer": 0,
+    "explain": "The War Powers Act requires congressional notification."
+   },
+   {
+    "sourceId": "trumpborder",
+    "q": "Which president declared a border emergency and redirected funds toward a border wall?",
+    "choices": [
+     "Donald Trump",
+     "Barack Obama",
+     "George W. Bush",
+     "Jimmy Carter"
+    ],
+    "answer": 0,
+    "explain": "Trump declared a border emergency and redirected funds toward a border wall."
+   },
+   {
+    "sourceId": "trumpborder",
+    "q": "Trump redirected funds toward…",
+    "choices": [
+     "A border wall",
+     "The Panama Canal",
+     "The New Deal",
+     "A national bank"
+    ],
+    "answer": 0,
+    "explain": "Trump declared a border emergency and redirected funds toward a border wall."
+   },
+   {
+    "sourceId": "tech",
+    "q": "How has communication technology changed the presidency?",
+    "choices": [
+     "Presidents can communicate directly and quickly with Americans",
+     "Presidents must go through Congress to speak to the public",
+     "Presidents can no longer reach Americans directly",
+     "The Senate now gives the president's speeches"
+    ],
+    "answer": 0,
+    "explain": "Technology allows presidents to communicate directly and quickly with Americans."
+   },
+   {
+    "sourceId": "tech",
+    "q": "Communication helps presidents gain ___ for their policies.",
+    "choices": [
+     "Public support",
+     "Senate seats",
+     "Court rulings",
+     "Cabinet approval"
+    ],
+    "answer": 0,
+    "explain": "Communication helps presidents gain public support for their policies."
+   },
+   {
+    "sourceId": "bully",
+    "q": "What is the \"bully pulpit\"?",
+    "choices": [
+     "The president's ability to influence public opinion",
+     "The president's power to veto a bill",
+     "The president's power to appoint judges",
+     "The president's authority over the military"
+    ],
+    "answer": 0,
+    "explain": "The bully pulpit is the president's ability to influence public opinion."
+   },
+   {
+    "sourceId": "bully",
+    "q": "The president's ability to influence public opinion is called the…",
+    "choices": [
+     "Bully pulpit",
+     "Signing statement",
+     "Fireside chat",
+     "Imperial presidency"
+    ],
+    "answer": 0,
+    "explain": "The bully pulpit is the president's ability to influence public opinion."
+   },
+   {
+    "sourceId": "fire",
+    "q": "Which president used fireside chats to explain his policies?",
+    "choices": [
+     "Franklin D. Roosevelt",
+     "Abraham Lincoln",
+     "Andrew Jackson",
+     "Woodrow Wilson"
+    ],
+    "answer": 0,
+    "explain": "FDR used fireside chats to explain his policies."
+   },
+   {
+    "sourceId": "fire",
+    "q": "FDR's radio talks to explain his policies were called…",
+    "choices": [
+     "Fireside chats",
+     "Signing statements",
+     "The bully pulpit",
+     "Executive agreements"
+    ],
+    "answer": 0,
+    "explain": "FDR used fireside chats to explain his policies."
+   },
+   {
+    "sourceId": "sotu",
+    "q": "What is the State of the Union address for?",
+    "choices": [
+     "To inform Congress about the country's condition and priorities",
+     "To declare war",
+     "To confirm presidential appointees",
+     "To override a veto"
+    ],
+    "answer": 0,
+    "explain": "The State of the Union informs Congress about the country's condition and priorities."
+   },
+   {
+    "sourceId": "sotu",
+    "q": "Which address informs Congress about the country's condition and priorities?",
+    "choices": [
+     "State of the Union address",
+     "Fireside chat",
+     "Signing statement",
+     "Press briefing"
+    ],
+    "answer": 0,
+    "explain": "The State of the Union informs Congress about the country's condition and priorities."
+   },
+   {
+    "sourceId": "wilson",
+    "q": "Which president's decision to deliver the State of the Union in person made it a stronger political tool?",
+    "choices": [
+     "Woodrow Wilson",
+     "Abraham Lincoln",
+     "Andrew Jackson",
+     "Thomas Jefferson"
+    ],
+    "answer": 0,
+    "explain": "Wilson delivered it in person, making it a stronger political tool."
+   },
+   {
+    "sourceId": "wilson",
+    "q": "How did Wilson change the State of the Union address?",
+    "choices": [
+     "He delivered it in person, making it a stronger political tool",
+     "He stopped giving it",
+     "He sent it only to the Senate",
+     "He broadcast it as a fireside chat"
+    ],
+    "answer": 0,
+    "explain": "Wilson delivered it in person, making it a stronger political tool."
+   },
+   {
+    "sourceId": "presssec",
+    "q": "What does the White House press secretary do?",
+    "choices": [
+     "Communicates the administration's views to the media",
+     "Manages the White House and controls access to the president",
+     "Presides over the Senate",
+     "Leads the Defense Department"
+    ],
+    "answer": 0,
+    "explain": "The press secretary communicates the administration's views to the media."
+   },
+   {
+    "sourceId": "presssec",
+    "q": "Who communicates the administration's views to the media?",
+    "choices": [
+     "The press secretary",
+     "The chief of staff",
+     "The vice president",
+     "The Secretary of State"
+    ],
+    "answer": 0,
+    "explain": "That is the White House press secretary."
+   },
+   {
+    "sourceId": "bush",
+    "q": "Which administration used controlled media access to influence coverage?",
+    "choices": [
+     "George W. Bush's",
+     "Woodrow Wilson's",
+     "Andrew Jackson's",
+     "Abraham Lincoln's"
+    ],
+    "answer": 0,
+    "explain": "Bush's administration used controlled media access to influence coverage."
+   },
+   {
+    "sourceId": "bush",
+    "q": "George W. Bush's administration used ___ to influence coverage.",
+    "choices": [
+     "Controlled media access",
+     "Fireside chats",
+     "Twitter",
+     "A court-packing plan"
+    ],
+    "answer": 0,
+    "explain": "Bush's administration used controlled media access to influence coverage."
+   },
+   {
+    "sourceId": "obamasocial",
+    "q": "Obama used social media and digital platforms to…",
+    "choices": [
+     "Reach Americans",
+     "Declare war",
+     "Confirm appointees",
+     "Override vetoes"
+    ],
+    "answer": 0,
+    "explain": "Obama used social media and digital platforms to reach Americans."
+   },
+   {
+    "sourceId": "obamasocial",
+    "q": "Which president used social media and digital platforms to reach Americans?",
+    "choices": [
+     "Barack Obama",
+     "Woodrow Wilson",
+     "Abraham Lincoln",
+     "Andrew Jackson"
+    ],
+    "answer": 0,
+    "explain": "Obama used social media and digital platforms to reach Americans."
+   },
+   {
+    "sourceId": "obamaimage",
+    "q": "Obama's team used photos and digital content to…",
+    "choices": [
+     "Shape his public image",
+     "Declare a national emergency",
+     "Return the Panama Canal",
+     "Expand the Court"
+    ],
+    "answer": 0,
+    "explain": "Obama's team used photos and digital content to shape his public image."
+   },
+   {
+    "sourceId": "trumptw",
+    "q": "Which president used Twitter to communicate directly and immediately with the public?",
+    "choices": [
+     "Donald Trump",
+     "Woodrow Wilson",
+     "Abraham Lincoln",
+     "Andrew Jackson"
+    ],
+    "answer": 0,
+    "explain": "Trump used Twitter to communicate directly and immediately with the public."
+   },
+   {
+    "sourceId": "trumptw",
+    "q": "Trump used Twitter to communicate…",
+    "choices": [
+     "Directly and immediately with the public",
+     "Only through the press secretary",
+     "Only with Congress",
+     "Only through Cabinet secretaries"
+    ],
+    "answer": 0,
+    "explain": "Trump used Twitter to communicate directly and immediately with the public."
+   },
+   {
+    "sourceId": "tip",
+    "q": "What test-taking strategy does the Chapter 5 Checkpoint remind you to use?",
+    "choices": [
+     "Process of elimination with an internal monologue",
+     "Always choose the longest answer",
+     "Skip every question you are unsure about",
+     "Pick the first answer choice"
+    ],
+    "answer": 0,
+    "explain": "The checkpoint says to use process of elimination with an internal monologue."
+   },
+   {
+    "sourceId": "persuade",
+    "q": "Presidents use persuasion, bargaining, and ___ to persuade Congress.",
+    "choices": [
+     "Speeches",
+     "Filibusters",
+     "Impeachment",
+     "Recess appointments"
+    ],
+    "answer": 0,
+    "explain": "Presidents use persuasion, bargaining, and speeches to persuade Congress to pass legislation."
+   },
+   {
+    "sourceId": "selfdef",
+    "q": "Which claim do presidents use to justify using force against immediate threats?",
+    "choices": [
+     "\"In self-defense\"",
+     "\"Executive privilege\"",
+     "\"Advice and consent\"",
+     "\"Court-packing\""
+    ],
+    "answer": 0,
+    "explain": "Presidents claim they can use force in self-defense to respond to immediate threats."
+   },
+   {
+    "sourceId": "conflict",
+    "q": "Conflict between the president and Congress can occur because the president needs Congress to…",
+    "choices": [
+     "Provide funding",
+     "Write the president's speeches",
+     "Appoint the White House press secretary",
+     "Select the Cabinet"
+    ],
+    "answer": 0,
+    "explain": "The president needs Congress to provide funding, which can create conflict."
+   },
+   {
+    "sourceId": "judges",
+    "q": "Judges serve for ___, which makes judicial appointments important.",
+    "choices": [
+     "Life",
+     "2 years",
+     "4 years",
+     "The length of the president's term"
+    ],
+    "answer": 0,
+    "explain": "Judges have life terms, so judicial appointments matter."
+   },
+   {
+    "sourceId": "jackson",
+    "q": "Andrew Jackson is associated with expanding presidential influence through…",
+    "choices": [
+     "Popularity and veto power",
+     "Fireside chats and radio",
+     "Court-packing and the New Deal",
+     "Gunboat diplomacy and the Canal Zone"
+    ],
+    "answer": 0,
+    "explain": "Jackson used his popularity and veto power to expand presidential influence."
+   },
+   {
+    "sourceId": "trwilson",
+    "q": "Theodore Roosevelt and Woodrow Wilson are associated with…",
+    "choices": [
+     "Expanding presidential involvement in foreign affairs",
+     "Suspending habeas corpus",
+     "Proposing a court-packing plan",
+     "Limiting presidents to 2 terms"
+    ],
+    "answer": 0,
+    "explain": "Roosevelt and Wilson expanded presidential involvement in foreign affairs."
+   },
+   {
+    "sourceId": "tonkin",
+    "q": "The Gulf of Tonkin Resolution is connected to which war?",
+    "choices": [
+     "The Vietnam War",
+     "The Civil War",
+     "World War II",
+     "The Korean War"
+    ],
+    "answer": 0,
+    "explain": "The Gulf of Tonkin Resolution gave LBJ broad authority in Vietnam."
+   },
+   {
+    "sourceId": "obamaimage",
+    "q": "Obama's team shaped his public image using…",
+    "choices": [
+     "Photos and digital content",
+     "Fireside radio chats",
+     "Signing statements",
+     "A court-packing plan"
+    ],
+    "answer": 0,
+    "explain": "Obama's team used photos and digital content to shape his public image."
    }
   ]
  }
